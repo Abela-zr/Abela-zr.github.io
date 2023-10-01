@@ -11,12 +11,12 @@ redirect_from:
 男，2000年出生，目前硕士就读于燕山大学电气工程学院，2022年于沈阳工业大学人工智能学院取得智能科学与技术专业学士学位。以第一作者在《Sensors and Actuators B: Chemical》期刊上发表论文1篇，发表软件著作权2项，作为项目负责人主持河北省研究生创新资助项目1项。
 
 
-主要任职
+## 主要任职
 ======
 
 > 百度飞桨开发者技术专家（PPDE）
 
-> 担任《Neural Computing and Applications》期刊特约审稿人。
+> 担任《Neural Computing and Applications》期刊特约审稿人
 
 荣誉奖励
 ======
