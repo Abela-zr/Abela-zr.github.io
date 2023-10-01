@@ -14,8 +14,9 @@ redirect_from:
 主要任职
 ======
 
-1）百度飞桨开发者技术专家（PPDE）
-2) 担任《Neural Computing and Applications》期刊特约审稿人。
+> 百度飞桨开发者技术专家（PPDE）
+
+> 担任《Neural Computing and Applications》期刊特约审稿人。
 
 荣誉奖励
 ======
