@@ -64,9 +64,9 @@ redirect_from:
 
 ## 学术论文
 
-> Rui Zhu, Jie Gao, Mu Li, Qiang Gao, Xijun Wu, Yungang Zhang*, A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model, Sensors and Actuators: B. Chemical. (中科院1区，IF=8.4, 2023)
+> **Rui Zhu**, Jie Gao, Mu Li, Qiang Gao, Xijun Wu, Yungang Zhang*, A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model, Sensors and Actuators: B. Chemical. (中科院1区，IF=8.4, 2023)
 
-> Jie Gao, Rui Zhu, Linying Li, Qiang Gao, Xijun Wu, Yucun Zhang, Yungang Zhang*. An adaptive absorption spectroscopy with adjustable moving window width for suppressing nonlinear effects in absorbance measurements, Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, (中科院2区, IF=4.4，2023)
+> Jie Gao, **Rui Zhu**, Linying Li, Qiang Gao, Xijun Wu, Yucun Zhang, Yungang Zhang*. An adaptive absorption spectroscopy with adjustable moving window width for suppressing nonlinear effects in absorbance measurements, Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, (中科院2区, IF=4.4，2023)
 
 ## 专利软著
 
