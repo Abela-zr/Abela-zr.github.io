@@ -18,13 +18,15 @@ redirect_from:
 
 > 百度飞桨开发者技术专家（2023.8）
 
-> 担任《Neural Computing and Applications》期刊特约审稿人（2023.7）
+> 担任《Neural Computing and Applications》（中科院3区，IF=6.0）期刊特约审稿人（2023.7）
 
 > 燕山大学电气工程学院“电之光”党建工作室活动实践部部长（2023.3-2023.9）
 
 > 沈阳工业大学校务参事（2021.6-2022.6）
 
 ## 荣誉奖励
+
+> 燕山大学研究生二等学业奖学金（2022.10）
 
 > 辽宁省普通高等学校优秀毕业生（2022.6）
 
@@ -58,5 +60,16 @@ redirect_from:
 
 > 未来杯高校AI挑战赛图像赛道东北赛区第二名（2020.10）
 
-> 
+> 中国大学生计算机设计竞赛校级三等奖（2020.5）
 
+## 学术论文
+
+> Rui Zhu, Jie Gao, Mu Li, Qiang Gao, Xijun Wu, Yungang Zhang*, A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model, Sensors and Actuators: B. Chemical. (中科院1区，IF=8.4, 2023)
+
+> Jie Gao, Rui Zhu, Linying Li, Qiang Gao, Xijun Wu, Yucun Zhang, Yungang Zhang*. An adaptive absorption spectroscopy with adjustable moving window width for suppressing nonlinear effects in absorbance measurements, Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, (中科院2区, IF=4.4，2023)
+
+## 专利软著
+
+> 气体光谱可视化分析软件 1.0（2023）
+
+> 霍兰德优化进阶职业兴趣测评软件 1.0（2023）
