@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "朱 瑞"
   avatar           : "zhu.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "每一个不曾起舞的日子，都是对生命的辜负！"
   location         : "Yanshan University"
   employer         :
   pubmed           : 
@@ -177,16 +177,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
