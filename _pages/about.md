@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-男，2000年出生，目前硕士就读于燕山大学电气工程学院，于沈阳工业大学人工智能学院取得智能科学与技术专业学士学位。目前任阳光电源电动力事业部研发副总裁。专攻，1高效永磁电机控制，2 永磁同步电机弱磁控制 3 永磁无速度矢量控制 4 AutoSAR 等方面的研发工作。2008年起，在EATON从事电机控制等技术和产品开发，2016年加入阳光电源，历任中央研究院电机控制研究所总监，阳光电动力公司副总裁等职务，主攻新能源汽车用高效永磁电机控制技术、弱磁控制及无速度矢量控制等，主导建立全面的电驱产品功能安全开发体系和平台，承担多项国家级、省级电驱控制技术课题，在汽车驱动控制上有着深厚的开发及管理经验。 
+男，2000年出生，目前硕士就读于燕山大学电气工程学院，2022年于沈阳工业大学人工智能学院取得智能科学与技术专业学士学位。以第一作者在《Sensors and Actuators B: Chemical》期刊上发表论文1篇，发表软件著作权2项，作为项目负责人主持河北省研究生创新资助项目1项。
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
