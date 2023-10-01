@@ -15,18 +15,20 @@ redirect_from:
 
 ## 主要任职
 
-> 百度飞桨开发者技术专家（PPDE）
+> 百度飞桨开发者技术专家（2023.8）
 
-> 担任《Neural Computing and Applications》期刊特约审稿人
+> 担任《Neural Computing and Applications》期刊特约审稿人（2023.7）
+
+> 燕山大学电气工程学院“电之光”党建工作室活动实践部部长（2023.9）
+
+> 燕山大学电气工程学院“电之光”党建工作室活动实践部副部长（2023.3-2023.9）
+
+> 沈阳工业大学校务参事（2021.6-2022.6）
 
 ## 荣誉奖励
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+> 2022届辽宁省普通高等学校优秀毕业生
+> 
 
 # 竞赛获奖
 ------
