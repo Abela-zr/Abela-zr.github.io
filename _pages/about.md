@@ -10,7 +10,7 @@ redirect_from:
 
 ## 基本信息
 
-朱瑞，男，2000年出生，目前硕士在读于燕山大学电气工程学院，2022年于沈阳工业大学人工智能学院取得智能科学与技术专业学士学位。研究兴趣是深度学习技术在光谱分析、光学（气体）传感器等方面的应用，以及信号处理技术的研究。已发表论文2篇，软件著作权2项，其中以第一作者在《Sensors and Actuators B: Chemical》期刊上发表学术论文1篇。参与省级科研项目2项，其中作为项目负责人主持河北省研究生创新资助项目1项。
+朱瑞，男，2000年出生，目前硕士在读于燕山大学电气工程学院，2022年于沈阳工业大学人工智能学院取得智能科学与技术专业学士学位。研究兴趣是深度学习技术在光谱分析、光学（气体）传感器等方面的应用，以及信号处理技术的研究。已发表论文3篇，软件著作权2项，其中以第一作者在《Sensors and Actuators B: Chemical》期刊上发表学术论文1篇。参与省级科研项目2项，其中作为项目负责人主持河北省研究生创新资助项目1项。
 
 ## 主要任职
 
@@ -52,7 +52,9 @@ redirect_from:
 
 > **Rui Zhu**, Jie Gao, Mu Li, Qiang Gao, Xijun Wu, Yungang Zhang*, A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model, Sensors and Actuators: B. Chemical. (中科院1区，IF=8.4, 2023)
 
-> Jie Gao, **Rui Zhu**, Linying Li, Qiang Gao, Xijun Wu, Yucun Zhang, Yungang Zhang*. An adaptive absorption spectroscopy with adjustable moving window width for suppressing nonlinear effects in absorbance measurements, Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, (中科院2区, IF=4.4，2023)
+> Jie Gao, **Rui Zhu**, Linying Li, Qiang Gao, Xijun Wu, Yucun Zhang, Yungang Zhang*. An adaptive absorption spectroscopy with adjustable moving window width for suppressing nonlinear effects in absorbance measurements, Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy. (中科院2区, IF=4.4，2023)
+
+> Mu Li, Jie Gao, Yongqi Wu, **Rui Zhu**,Qiang Gao,Yungang Zhang*. Study on temperature effect of broadband absorption spectroscopy based on Doppler broadening combined with multi-line shape superposition, Optics Letters. (中科院2区, IF=3.6, 2023)
 
 ## 专利软著
 
