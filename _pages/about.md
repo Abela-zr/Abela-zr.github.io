@@ -98,4 +98,4 @@ redirect_from:
 
 ## 新闻报道
 
-> [星火领航——燕山大学电气工程学院第70期优秀学员风采展示](https://mp.weixin.qq.com/s/VXnNBSBU_OvBjOOB6uSwBQ) 
+> [星火领航—燕山大学电气工程学院第70期优秀学员风采展示](https://mp.weixin.qq.com/s/VXnNBSBU_OvBjOOB6uSwBQ) 
