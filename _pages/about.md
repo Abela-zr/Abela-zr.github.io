@@ -20,7 +20,7 @@ redirect_from:
 
 > 燕山大学电气工程学院“电之光”党建工作室活动实践部副部长（2023.3-2023.9）
 
-> CSDN人工智能领域新星创作者（粉丝1.3w+，2021.9）
+> CSDN人工智能领域新星创作者（粉丝1.4w+，2021.9）
 
 > 沈阳工业大学校务参事（2021.6-2022.6）
 
@@ -98,4 +98,4 @@ redirect_from:
 
 ## 新闻报道
 
-> [星火领航—燕山大学电气工程学院第70期优秀学员风采展示](https://mp.weixin.qq.com/s/VXnNBSBU_OvBjOOB6uSwBQ) 
+> [星火领航—燕山大学电气工程学院第70期优秀学员风采展示](https://dangjian.ysu.edu.cn/content_new.jsp?urltype=news.NewsContentUrl&wbtreeid=1265&wbnewsid=85868) 
