@@ -10,7 +10,12 @@ redirect_from:
 
 ## 基本信息
 
-朱瑞，男，2000年出生，目前硕士在读于燕山大学电气工程学院，2022年于沈阳工业大学人工智能学院取得智能科学与技术专业学士学位。研究兴趣是深度学习技术在光谱分析、光学（气体）传感器等方面的应用，以及信号处理技术的研究。已发表论文3篇，软件著作权3项，其中以第一作者在《Sensors and Actuators B: Chemical》期刊上发表学术论文1篇。参与省级科研项目1项。
+研究兴趣是光谱分析、光学（气体）传感器以及深度学习技术的应用。
+荣获2023年研究生国家奖学金。
+参与河北省研究生科研项目1项。
+已发表论文5篇，软件著作权5项。
+其中以第一作者在《ACS Sensors》、《Sensors and Actuators B: Chemical》、《Optics and Laser Technology》期刊上发表学术论文各1篇。
+
 
 ## 主要任职
 
@@ -25,6 +30,8 @@ redirect_from:
 > 沈阳工业大学校务参事（2021.6-2022.6）
 
 ## 荣誉奖励
+
+> 河北省三好学生（2024.3）
 
 > 燕山大学校三好学生（2023.11）
 
@@ -52,19 +59,27 @@ redirect_from:
 
 ## 论文成果
 
-> **Rui Zhu**, Jie Gao, Mu Li, Qiang Gao, Xijun Wu, Yungang Zhang*, A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model, Sensors and Actuators: B. Chemical. (中科院1区，IF=8.4, 2023)
+> **Rui Zhu**, Jie Gao, Mu Li, Yongqi Wu, Qiang Gao, Xijun Wu, Yungang Zhang*, Ultrasensitive online NO sensor based on a distributed parallel self-regulating neural network and ultraviolet differential optical absorption spectroscopy for exhaled breath diagnosis, ACS Sensors. (中科院1区TOP，IF=8.9, 2024)
+
+> **Rui Zhu**, Jie Gao, Mu Li, Yongqi Wu, Xijun Wu, Yungang Zhang*, Multiparameter gas sensor based on UV-SFR combined with wavelet transform-neural network at ppb level, Optics and Laser Technology. (中科院2区TOP，IF=5, 2024)
+
+> **Rui Zhu**, Jie Gao, Mu Li, Qiang Gao, Xijun Wu, Yungang Zhang*, A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model, Sensors and Actuators: B. Chemical. (中科院1区TOP，IF=8.4, 2023)
 
 > Jie Gao, **Rui Zhu**, Linying Li, Qiang Gao, Xijun Wu, Yucun Zhang, Yungang Zhang*. An adaptive absorption spectroscopy with adjustable moving window width for suppressing nonlinear effects in absorbance measurements, Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy. (中科院2区, IF=4.4，2023)
 
-> Mu Li, Jie Gao, Yongqi Wu, **Rui Zhu**,Qiang Gao,Yungang Zhang*. Study on temperature effect of broadband absorption spectroscopy based on Doppler broadening combined with multi-line shape superposition, Optics Letters. (中科院2区, IF=3.6, 2023)
+> Mu Li, Jie Gao, Yongqi Wu, **Rui Zhu**,Qiang Gao,Yungang Zhang*. Study on temperature effect of broadband absorption spectroscopy based on Doppler broadening combined with multi-line shape superposition, Optics Letters. (中科院2区TOP, IF=3.6, 2023)
 
 ## 专利软著
 
-> 一氧化氮光谱处理与分析软件 1.0（2023）
+> 二硫化碳光谱处理与分析软件（2024）
 
-> 气体光谱可视化分析软件 1.0（2023）
+> 氨气光谱处理与分析软件（2024）
 
-> 霍兰德优化进阶职业兴趣测评软件 1.0（2023）
+> 一氧化氮光谱处理与分析软件（2023）
+
+> 气体光谱可视化分析软件（2023）
+
+> 霍兰德优化进阶职业兴趣测评软件（2023）
 
 ## 竞赛获奖
 
