@@ -67,6 +67,8 @@ redirect_from:
 
 > Jie Gao, **Rui Zhu**, Linying Li, Qiang Gao, Xijun Wu, Yucun Zhang, Yungang Zhang*. An adaptive absorption spectroscopy with adjustable moving window width for suppressing nonlinear effects in absorbance measurements, Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy. (中科院2区, IF=4.4，2023)
 
+> Mu Li, Jie Gao, **Rui Zhu**, Xinhui Li, Xijun Wu, Qiang Gao, Yungang Zhang*. An ultra-sensitive optical H2S sensor based on thermal conversion combined with UV-DOAS: Dynamic detection from ppm to ppb level, Sensors and Actuators: B. Chemical. (中科院1区TOP，IF=8.9, 2024)
+
 > Mu Li, Jie Gao, Yongqi Wu, **Rui Zhu**,Qiang Gao,Yungang Zhang*. Study on temperature effect of broadband absorption spectroscopy based on Doppler broadening combined with multi-line shape superposition, Optics Letters. (中科院2区TOP, IF=3.6, 2023)
 
 ## 专利软著
@@ -83,11 +85,15 @@ redirect_from:
 
 ## 竞赛获奖
 
+> 2024年全国大学生高新技术竞赛—数学竞赛优秀奖（2024.5）
+
 > “华为杯”第二十届中国研究生数学建模竞赛三等奖（2023.11）
 
 > “以青春之手，构时代之韵”——红色手工比赛三等奖（2023.11）
 
 > 河北省“互联网+”大学生创新创业大赛银奖（2023.9）
+
+> 河北省“互联网+”大学生创新创业大赛校内选拔赛三等奖2项（2023.9）
 
 > “中国机电工程学会杯”全国大学生电工数学建模竞赛二等奖（2023.7）
 
