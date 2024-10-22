@@ -84,15 +84,17 @@ redirect_from:
 
 > Rui Zhu, Jie Gao, Mu Li, Qiang Gao, Xijun Wu, Yungang Zhang*, A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model, 2023, 394, 134440, Sensors and Actuators: B. Chemical. (2023, SCI, 中科院一区Top)
 
-> Mu Li, Jie Gao, **Rui Zhu**, Xinhui Li, Xijun Wu, Qiang Gao, Yungang Zhang*. An ultra-sensitive optical H2S sensor based on thermal conversion combined with UV-DOAS: Dynamic detection from ppm to ppb level, Sensors and Actuators: B. Chemical. (2024, 中科院1区TOP，IF=8.9, )
+> Mu Li, Jie Gao, **Rui Zhu**, Xinhui Li, Xijun Wu, Qiang Gao, Yungang Zhang*. An ultra-sensitive optical H2S sensor based on thermal conversion combined with UV-DOAS: Dynamic detection from ppm to ppb level, Sensors and Actuators: B. Chemical. (2024, SCI, 中科院1区TOP)
+
+> Fei Xie, Yongqi Wu, Jie Gao, Mu Li, **Rui Zhu**, Xijun Wu, Yungang Zhang*. Detection of ultra-low concentration NH3, SO2, and NO using UV-DOAS combined with multidimensional spectral fusion, Fuel, (2024, SCI, 中科院1区TOP)
+
+> Mu Li, Qiwen Zhou, Yongqi Wu, Jie Gao, **Rui Zhu**, Qiang Gao, Xijun Wu, Yungang Zhang*. An Ultrafast Optical Sensor for Simultaneous Detection of Nh3 Temperature and Concentration Based on Ultraviolet Absorption Spectral Redshift Combined with Spectral Reconstruction. (2024, SCI, 中科院1区TOP)
 
 > Jie Gao, Yongqi Wu, Shuo Zhao, **Rui Zhu**, Mu Li, Wanyi Qin, Yuncun Zhang, Yungang Zhang*. Measurement of the absorption cross-sections of sulfur compounds in the 180-270 nm region considering nonlinear effects, Physical Chemistry Chemical Physics. (2024, SCI, 中科院3区)
 
+> Mu Li, Jie Gao, Yongqi Wu, **Rui Zhu**,Qiang Gao,Yungang Zhang*. Study on temperature effect of broadband absorption spectroscopy based on Doppler broadening combined with multi-line shape superposition, Optics Letters. (2023, SCI, 中科院2区TOP)
+
 > Jie Gao, **Rui Zhu**, Linying Li, Qiang Gao, Xijun Wu, Yucun Zhang, Yungang Zhang*. An adaptive absorption spectroscopy with adjustable moving window width for suppressing nonlinear effects in absorbance measurements, Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy. (2023, SCI, 中科院2区)
-
-
-
-> Mu Li, Jie Gao, Yongqi Wu, **Rui Zhu**,Qiang Gao,Yungang Zhang*. Study on temperature effect of broadband absorption spectroscopy based on Doppler broadening combined with multi-line shape superposition, Optics Letters. (中科院2区TOP, IF=3.6, 2023)
 
 ## 专利软著
 
