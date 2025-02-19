@@ -10,19 +10,25 @@ redirect_from:
 
 ## 基本信息
 
-研究兴趣是光谱分析、光学（气体）传感器、呼出气体超痕量检测以及深度学习技术的应用。
+研究兴趣是光谱分析、光学（气体）传感器、呼出气体超痕量检测以及深度学习技术应用。
 
-中国光学学会、中国仪器仪表学会、中国光学工程学会学生会员。
+荣获2023年研究生国家奖学金、2024年研究生国家奖学金。
 
-荣获2023年研究生国家奖学金。
+以第一作者发表SCI论文5篇，其中,中科院一区Top论文5篇、二区Top论文1篇。
 
-以第一作者发表SCI论文5篇，其中,中科院一区Top论文4篇、二区Top论文1篇。
+精通Python，熟悉深度学习框架Tensorflow、Pytorch、PaddlePaddle。
 
-申请国家发明专利、国家实用新型专利6项，登记软件著作权11项。
+被百度飞桨授予“飞桨开发者技术专家”，被CSDN授予“人工智能领域新星创作者”。
+
+国际光学工程学会、中国光学学会、中国仪器仪表学会、中国光学工程学会学生会员。
+
+申请国家发明专利4项，登记软件著作权11项。
 
 联系邮箱：zhurui@stumail.ysu.edu.cn
 
 ## 主要任职
+
+> 国际光学工程学会学生会员（2024.12）
 
 > 中国光学学会学生会员（2024.10）
 
@@ -35,6 +41,18 @@ redirect_from:
 > 沈阳工业大学校务参事（2021.6-2022.6）
 
 ## 荣誉奖励
+
+> 星箭科技“星青年”科研奖学金（2025.1）
+
+> 百度飞桨星河社区年度AI创作者（2024.12）
+
+> 燕山大学三好学生标兵（2024.12）
+
+> 燕山大学三好学生（2024.12）
+ 
+> 研究生国家奖学金 (2024.11)
+
+> “海天基金”奖学金（2024.11）
 
 > 河北省三好学生（2024.3）
 
@@ -58,7 +76,7 @@ redirect_from:
 
 ## 技术认证
 
-> 百度飞桨开发者技术专家（2023.8, 项目被 Fork 数1.7 k+）
+> 百度飞桨开发者技术专家（2023.8, 项目被 Fork 数2.8 k+）
 
 > CSDN人工智能领域新星创作者（2021.9, 粉丝1.5 w+）
 
@@ -74,41 +92,27 @@ redirect_from:
 
 ## 论文成果
 
-> Rui Zhu, Jie Gao, Qi Tian, Mu Li, Qiang Gao, Xijun Wu, Shufeng Xu, Yungang Zhang*, Optical chemical gas sensor based on spectral autocorrelation: A method for online detection of nitric oxide and ammonia in exhaled breath, 2024,  422, 136694, Sensors and Actuators: B. Chemical. (2024, SCI, 中科院一区Top)
+> **Rui Zhu**, Jie Gao, Qi Tian, Mu Li, Fei Xie, Changyin Li, Shufeng Xu, Yungang Zhang*, Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network, Analytical Chemistry, 2025, 97, 5, 3190–3197. (2025, SCI, 中科院一区Top)
 
-> Rui Zhu, Qiwen Zhou, Qi Tian, Shuo Zhao, Wanyi Qin, Xijun Wu, Shufeng Xu, Yungang Zhang*, Ppb-level ammonia sensor for exhaled breath diagnosis based on UV-DOAS combined with spectral reconstruction fitting neural network, 2024, 9, 8, 4286–4294, ACS Sensors. (2024, SCI, 中科院一区Top)
+> **Rui Zhu**, Jie Gao, Qi Tian, Mu Li, Qiang Gao, Xijun Wu, Shufeng Xu, Yungang Zhang*, Optical chemical gas sensor based on spectral autocorrelation: A method for online detection of nitric oxide and ammonia in exhaled breath, Sensors and Actuators: B. Chemical, 2025,  422, 136694. (2025, SCI, 中科院一区Top)
 
-> Rui Zhu, Jie Gao, Mu Li, Yongqi Wu, Qiang Gao, Xijun Wu, Yungang Zhang*, Ultrasensitive online NO sensor based on a distributed parallel self-regulating neural network and ultraviolet differential optical absorption spectroscopy for exhaled breath diagnosis, 2024, 9, 3, 1499–1507, ACS Sensors. (2024, SCI, 中科院一区Top)
+> **Rui Zhu**, Qiwen Zhou, Qi Tian, Shuo Zhao, Wanyi Qin, Xijun Wu, Shufeng Xu, Yungang Zhang*, Ppb-level ammonia sensor for exhaled breath diagnosis based on UV-DOAS combined with spectral reconstruction fitting neural network, ACS Sensors, 2024, 9, 8, 4286–4294. (2024, SCI, 中科院一区Top)
 
-> Rui Zhu, Jie Gao, Mu Li, Yongqi Wu, Xijun Wu, Yungang Zhang*, Multiparameter gas sensor based on UV-SFR combined with wavelet transform-neural network at ppb level, 2024, 176, 110960, Optics and Laser Technology. (2024, SCI, 中科院二区Top)
+> **Rui Zhu**, Jie Gao, Mu Li, Yongqi Wu, Qiang Gao, Xijun Wu, Yungang Zhang*, Ultrasensitive online NO sensor based on a distributed parallel self-regulating neural network and ultraviolet differential optical absorption spectroscopy for exhaled breath diagnosis, ACS Sensors, 2024, 9, 3, 1499–1507. (2024, SCI, 中科院一区Top)
 
-> Rui Zhu, Jie Gao, Mu Li, Qiang Gao, Xijun Wu, Yungang Zhang*, A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model, 2023, 394, 134440, Sensors and Actuators: B. Chemical. (2023, SCI, 中科院一区Top)
+> **Rui Zhu**, Jie Gao, Mu Li, Yongqi Wu, Xijun Wu, Yungang Zhang*, Multiparameter gas sensor based on UV-SFR combined with wavelet transform-neural network at ppb level, Optics and Laser Technology, 2024, 176, 110960. (2024, SCI, 中科院二区Top)
 
-> Mu Li, Jie Gao, **Rui Zhu**, Xinhui Li, Xijun Wu, Qiang Gao, Yungang Zhang*. An ultra-sensitive optical H2S sensor based on thermal conversion combined with UV-DOAS: Dynamic detection from ppm to ppb level, Sensors and Actuators: B. Chemical. (2024, SCI, 中科院1区TOP)
+> **Rui Zhu**, Jie Gao, Mu Li, Qiang Gao, Xijun Wu, Yungang Zhang*, A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model, Sensors and Actuators: B. Chemical, 2023, 394, 134440. (2023, SCI, 中科院一区Top)
 
-> Fei Xie, Yongqi Wu, Jie Gao, Mu Li, **Rui Zhu**, Xijun Wu, Yungang Zhang*. Detection of ultra-low concentration NH3, SO2, and NO using UV-DOAS combined with multidimensional spectral fusion, Fuel, (2024, SCI, 中科院1区TOP)
+## 专利及软著
 
-> Mu Li, Qiwen Zhou, Yongqi Wu, Jie Gao, **Rui Zhu**, Qiang Gao, Xijun Wu, Yungang Zhang*. An Ultrafast Optical Sensor for Simultaneous Detection of Nh3 Temperature and Concentration Based on Ultraviolet Absorption Spectral Redshift Combined with Spectral Reconstruction. (2024, SCI, 中科院1区TOP)
+> 一种基于吸收光谱自相关的混合气体浓度检测装置和方法，张云刚、朱瑞、高杰、李沐、武泳淇，公开号：CN118130412A
 
-> Jie Gao, Yongqi Wu, Shuo Zhao, **Rui Zhu**, Mu Li, Wanyi Qin, Yuncun Zhang, Yungang Zhang*. Measurement of the absorption cross-sections of sulfur compounds in the 180-270 nm region considering nonlinear effects, Physical Chemistry Chemical Physics. (2024, SCI, 中科院3区)
+> 一种氧气和臭氧的吸收截面测量装置及方法，张云刚、赵烁、朱瑞、高杰、李沐，申请号：CN118758885A
 
-> Mu Li, Jie Gao, Yongqi Wu, **Rui Zhu**,Qiang Gao,Yungang Zhang*. Study on temperature effect of broadband absorption spectroscopy based on Doppler broadening combined with multi-line shape superposition, Optics Letters. (2023, SCI, 中科院2区TOP)
+> 基于非视域镜像映射的高温锻件径向形貌重构系统及方法，张云刚、周齐文、刘斌、李沐、朱瑞，公开号：CN118463863A
 
-> Jie Gao, **Rui Zhu**, Linying Li, Qiang Gao, Xijun Wu, Yucun Zhang, Yungang Zhang*. An adaptive absorption spectroscopy with adjustable moving window width for suppressing nonlinear effects in absorbance measurements, Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy. (2023, SCI, 中科院2区)
-
-## 专利软著
-
-> 一种基于吸收光谱自相关的混合气体浓度检测装置和方法，张云刚、朱瑞、高杰、李沐、武泳淇，公开号：CN118130412A（国家发明专利）
-
-> 一种基于光谱的人体呼出一氧化氮痕量检测装置，张云刚、朱瑞、高杰、李沐、王淇霖，申请号：2024200073938（国家实用新型专利）
-
-> 一种氧气和臭氧的吸收截面测量装置及方法，张云刚、赵烁、朱瑞、高杰、李沐，申请号：202410735084.7（国家发明专利）
-
-> 基于非视域镜像映射的高温锻件径向形貌重构系统及方法，张云刚、周齐文、刘斌、李沐、朱瑞，公开号：CN118463863A（国家发明专利）
-
-> 基于多峰相关性分析的高温铝轧制油浓度检测装置及方法，张云刚、秦婉仪、高杰、朱瑞、李沐，申请号：202410703125.4（国家发明专利）
-
-> 一种基于全光谱的SF6分解产物检测装置，张云刚、李沐、高杰、朱瑞、梁鸿浩，申请号：202420007413.1（国家实用新型专利）
+> 基于多峰相关性分析的高温铝轧制油浓度检测装置及方法，张云刚、秦婉仪、高杰、朱瑞、李沐，申请号：CN118624556A
 
 > 一氧化碳气体光谱处理与分析软件，朱瑞，登记号：2024SR1036904
 
@@ -170,4 +174,7 @@ redirect_from:
 
 ## 新闻报道
 
-> [星火领航—燕山大学电气工程学院第70期优秀学员风采展示](https://dangjian.ysu.edu.cn/content_new.jsp?urltype=news.NewsContentUrl&wbtreeid=1265&wbnewsid=85868) 
+> [学院新闻 | 电气工程学院研究生会举办“知识共享，学术共进”学术沙龙](https://mp.weixin.qq.com/s/n8F0V7H_v_lmXofr03HgUQ)
+
+> [星火领航—燕山大学电气工程学院第70期优秀学员风采展示](https://dangjian.ysu.edu.cn/content_new.jsp?urltype=news.NewsContentUrl&wbtreeid=1265&wbnewsid=85868)
+
