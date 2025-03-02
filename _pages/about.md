@@ -21,7 +21,7 @@ redirect_from:
 
 研究兴趣是光谱分析、光学（气体）传感器、呼出气体超痕量检测以及深度学习技术的应用。
 
-以**第一作者**发表SCI论文6篇，其中,中科院一区**Top**论文5篇、二区**Top**论文1篇。
+以<span style="color:red">**第一作者**</span>发表SCI论文6篇，其中,中科院一区<span style="color:red">**Top**</span>论文5篇、二区<span style="color:red">**Top**</span>论文1篇。
 
 申请国家发明专利4项，登记软件著作权11项。
 
