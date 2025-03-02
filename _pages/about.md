@@ -60,42 +60,6 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 
 [Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network](https://pubs.acs.org/doi/10.1021/acs.analchem.4c06797)
 
-<span style="color:red">**Rui Zhu**</span>, Jie Gao, Qi Tian, Mu Li, Fei Xie, Changyin Li, Shufeng Xu, Yungang Zhang*
-
-[**Paper PDF**](https://pan.quark.cn/s/47e542bdc024) \| [**Video Demo**](https://www.bilibili.com/video/BV1fX98Y4Ehm/)
-- This work realizes the detection of ammonia in exhaled breath
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Analytical Chemistry 2025</div><img src='images/Papers/paper5.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network](https://pubs.acs.org/doi/10.1021/acs.analchem.4c06797)
-
-<span style="color:red">**Rui Zhu**</span>, Jie Gao, Qi Tian, Mu Li, Fei Xie, Changyin Li, Shufeng Xu, Yungang Zhang*
-
-[**Paper PDF**](https://pan.quark.cn/s/47e542bdc024) \| [**Video Demo**](https://www.bilibili.com/video/BV1fX98Y4Ehm/)
-- This work realizes the detection of ammonia in exhaled breath
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Analytical Chemistry 2025</div><img src='images/Papers/paper5.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network](https://pubs.acs.org/doi/10.1021/acs.analchem.4c06797)
-
-<span style="color:red">**Rui Zhu**</span>, Jie Gao, Qi Tian, Mu Li, Fei Xie, Changyin Li, Shufeng Xu, Yungang Zhang*
-
-[**Paper PDF**](https://pan.quark.cn/s/47e542bdc024) \| [**Video Demo**](https://www.bilibili.com/video/BV1fX98Y4Ehm/)
-- This work realizes the detection of ammonia in exhaled breath
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Analytical Chemistry 2025</div><img src='images/Papers/paper5.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network](https://pubs.acs.org/doi/10.1021/acs.analchem.4c06797)
-
 <span style="color:MediumBlue">**Rui Zhu**</span>, Jie Gao, Qi Tian, Mu Li, Fei Xie, Changyin Li, Shufeng Xu, Yungang Zhang*
 
 [**Paper PDF**](https://pan.quark.cn/s/47e542bdc024) \| [**Video Demo**](https://www.bilibili.com/video/BV1fX98Y4Ehm/)
@@ -103,14 +67,50 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Analytical Chemistry 2025</div><img src='images/Papers/paper5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors and Actuators B: Chemical 2024</div><img src='images/Papers/paper4.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network](https://pubs.acs.org/doi/10.1021/acs.analchem.4c06797)
+[Optical chemical gas sensor based on spectral autocorrelation: A method for online detection of nitric oxide and ammonia in exhaled breath](https://www.sciencedirect.com/science/article/pii/S0925400524014242)
 
-<span style="color:red">**Rui Zhu**</span>, Jie Gao, Qi Tian, Mu Li, Fei Xie, Changyin Li, Shufeng Xu, Yungang Zhang*
+<span style="color:MediumBlue">**Rui Zhu**</span>, Jie Gao, Qi Tian, Mu Li, Qiang Gao, Xijun Wu, Shufeng Xu, Yungang Zhang*
 
-[**Paper PDF**](https://pan.quark.cn/s/47e542bdc024) \| [**Video Demo**](https://www.bilibili.com/video/BV1fX98Y4Ehm/)
+[**Paper PDF**](https://pan.quark.cn/s/47e542bdc024)
+- This work realizes the detection of ammonia in exhaled breath
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Sensors 2024</div><img src='images/Papers/paper3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Ppb-Level Ammonia Sensor for Exhaled Breath Diagnosis Based on UV-DOAS Combined with Spectral Reconstruction Fitting Neural Network](https://pubs.acs.org/doi/10.1021/acssensors.4c01525)
+
+<span style="color:MediumBlue">**Rui Zhu**</span>, Qiwen Zhou, Qi Tian, Shuo Zhao, Wanyi Qin, Xijun Wu, Shufeng Xu, Yungang Zhang*
+
+[**Paper PDF**](https://pan.quark.cn/s/47e542bdc024)
+- This work realizes the detection of ammonia in exhaled breath
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Sensors 2024</div><img src='images/Papers/paper2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Ultrasensitive Online NO Sensor Based on a Distributed Parallel Self-Regulating Neural Network and Ultraviolet Differential Optical Absorption Spectroscopy for Exhaled Breath Diagnosis](https://pubs.acs.org/doi/abs/10.1021/acssensors.3c02625)
+
+<span style="color:MediumBlue">**Rui Zhu**</span>, Jie Gao, Mu Li, Yongqi Wu, Qiang Gao, Xijun Wu, Yungang Zhang*
+
+[**Paper PDF**](https://pan.quark.cn/s/47e542bdc024)
+- This work realizes the detection of ammonia in exhaled breath
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors and Actuators B: Chemical 2023</div><img src='images/Papers/paper1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model](https://www.sciencedirect.com/science/article/pii/S0925400523011553)
+
+<span style="color:MediumBlue">**Rui Zhu**</span>, Jie Gao, Mu Li, Qiang Gao, Xijun Wu, Yungang Zhang*
+
+[**Paper PDF**](https://pan.quark.cn/s/47e542bdc024)
 - This work realizes the detection of ammonia in exhaled breath
 </div>
 </div>
