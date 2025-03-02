@@ -33,7 +33,7 @@ redirect_from:
 
 国际光学工程学会学生会员、中国光学学会、中国仪器仪表学会、中国光学工程学会学生会员。
 
-My name is Zhu Rui, male, master degree in Yanshan University School of Electrical Engineering. My research interests are spectral analysis, optical (gas) sensors, exhaled gas ultrattrace detection, and the application of deep learning techniques. I have **published 6 SCI papers as the first author**, including **5 Top papers** in the first district of the Chinese Academy of Sciences and **1 Top paper** in the second district of the Chinese Academy of Sciences. And applied for 4 national invention patents, registered software copyright 11. And I won the national Scholarship for graduate students in 2023 and 2024. I am proficient in Python programming and familiar with TensorFlow, Pytorch, PaddlePaddle frameworks. Therefore, I was awarded "PaddlePaddle Developers Expert" by Baidu PaddlePaddle  and "New star creator in artificial intelligence" by CSDN. At the same time, I am a student member of the International Society of Optical Engineering, a student member of the Chinese Optical Society, a student member of the Chinese Society of Instrumentation, and a student member of the Chinese Society of Optical Engineering. 
+My name is Zhu Rui, male, master degree in Yanshan University School of Electrical Engineering. My research interests are spectral analysis, optical (gas) sensor, exhaled gas ultrattrace detection, and the application of deep learning techniques. I have **published 6 SCI papers as the first author**, including **5 Top papers** in the first district of the Chinese Academy of Sciences and **1 Top paper** in the second district of the Chinese Academy of Sciences. And applied for 4 national invention patents, registered software copyright 11. And I won the national Scholarship for graduate students in 2023 and 2024. I am proficient in Python programming and familiar with TensorFlow, Pytorch, PaddlePaddle frameworks. Therefore, I was awarded "PaddlePaddle Developers Expert" by Baidu PaddlePaddle  and "New Star Creator in AI" by CSDN. At the same time, I am a student member of the International Society of Optical Engineering, a student member of the Chinese Optical Society, a student member of the Chinese Society of Instrumentation, and a student member of the Chinese Society of Optical Engineering. 
 
 
 # 🔥 News
@@ -58,12 +58,12 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network](https://pubs.acs.org/doi/10.1021/acs.analchem.4c06797)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Rui Zhu**, Jie Gao, Qi Tian, Mu Li, Fei Xie, Changyin Li, Shufeng Xu, Yungang Zhang*
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This work realizes the detection of ammonia in exhaled breath
 </div>
 </div>
 
@@ -81,10 +81,12 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 - *2023.11*, Merit Student of Yanshan University（燕山大学三好学生）
 - *2023.11*, National Scholarship（国家奖学金）
 - *2023.10*, First-class Scholarship for postgraduate students of Yanshan University（燕山大学一等学业奖学金）
+- *2023.08*, PaddlePaddle Developers Expert（飞桨开发者技术专家）
 - *2022.10*, Second-class Scholarship for postgraduate students of Yanshan University（燕山大学二等学业奖学金）
 - *2022.06*, Honor Graduate of Liaoning University（辽宁省优秀毕业生）
 - *2022.06*, Honor Graduate of Shenyang University of Technology（沈阳工业大学优秀毕业生）
 - *2021.09*, Outstanding Student Cadre of Shenyang University of Technology（沈阳工业大学优秀学生干部）
+- *2021.09*, New Star Creator in AI（人工智能领域新星创作者）
 
 # 📖 Educations
 - *2022.09 - 2025.06 (now)*, Master, Yanshan Univerity, Qinhuangdao.
