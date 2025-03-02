@@ -9,7 +9,7 @@
 title                    : "Postgraduate student"
 description              : "Spectroscopy, Optics, Gas sensor, Deep learning."
 repository               : 
-google_scholar_stats_use_cdn : False
+google_scholar_stats_use_cdn : True
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
