@@ -55,7 +55,7 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Papers/paper5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Analytical Chemistry 2025</div><img src='images/Papers/paper5.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network](https://pubs.acs.org/doi/10.1021/acs.analchem.4c06797)
@@ -67,7 +67,7 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 </div>
 </div>
 
-- [Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network](https://pubs.acs.org/doi/10.1021/acs.analchem.4c06797), **Rui Zhu**, Jie Gao, Qi Tian, Mu Li, Fei Xie, Changyin Li, Shufeng Xu, Yungang Zhang*, Analytical Chemistry, 2025, 97, 5, 3190–3197. **CVPR 2020**
+- <div class="badge">CVPR 2016</div> [Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network](https://pubs.acs.org/doi/10.1021/acs.analchem.4c06797), **Rui Zhu**, Jie Gao, Qi Tian, Mu Li, Fei Xie, Changyin Li, Shufeng Xu, Yungang Zhang*, Analytical Chemistry, 2025, 97, 5, 3190–3197.
 
 # 🎖 Honors and Awards
 - *2025.01*, Star Arrow Science and Technology Star Young Research Scholarship（星箭科技星青年科研奖学金）
