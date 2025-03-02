@@ -72,12 +72,13 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2025.06 (now)*, Master, Yanshan Univerity, Qinhuangdao.
+- *2018.09 - 2022.06*, Undergraduate, Shenyang University of Technology, Shenyang.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.12*, Graduate Innovation Forum, School of Electrical Engineering, Yanshan University.
+- *2024.11*, Hosted "Knowledge Sharing, Academic Progress Together" Academic Salon, School of Electrical Engineering, Yanshan University.
+- *2023.12*, Graduate Innovation Forum, School of Electrical Engineering, Yanshan University.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
