@@ -181,3 +181,6 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 - *2024.12*, Graduate Innovation Forum, School of Electrical Engineering, Yanshan University.
 - *2024.11*, Hosted "Knowledge Sharing, Academic Progress Together" Academic Salon, School of Electrical Engineering, Yanshan University.
 - *2023.12*, Graduate Innovation Forum, School of Electrical Engineering, Yanshan University.
+
+# 💻 Internships
+- NO
