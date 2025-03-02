@@ -138,17 +138,17 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 
 ---------
 
-## 📚 Software Copyright
-- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Patent 2024</span> [Carbon monoxide gas spectral processing and analysis software](), <span style="color:MediumBlue">**Rui Zhu**</span>. 2024SR1036904.
-- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Patent 2024</span> [Acetone gas spectral processing and analysis software](), <span style="color:MediumBlue">**Rui Zhu**</span>. 2024SR0981596.
-- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Patent 2024</span> [Nitrogen dioxide gas spectral processing and analysis software](), <span style="color:MediumBlue">**Rui Zhu**</span>. 2024SR0746974.
-- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Patent 2024</span> [Carbon dioxide spectral processing and analysis software](), Yungang Zhang, <span style="color:MediumBlue">**Rui Zhu**</span>. 2024SR1127245.
-- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Patent 2024</span> [Hydrogen spectral processing and analysis software](), Yungang Zhang, <span style="color:MediumBlue">**Rui Zhu**</span>. 2024SR1029287.
-- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Patent 2024</span> [Ethanol gas spectral processing and analysis software](), Yungang Zhang, <span style="color:MediumBlue">**Rui Zhu**</span>. 2024SR1001217.
-- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Patent 2024</span> [Carbon disulfide spectral processing and analysis software](), Yungang Zhang, <span style="color:MediumBlue">**Rui Zhu**</span>. 2024SR0230291.
-- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Patent 2024</span> [Nitric oxide gas spectroscopy processing and analysis software](), Yungang Zhang, <span style="color:MediumBlue">**Rui Zhu**</span>. 2023SR1539717.
-- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Patent 2024</span> [Ammonia spectroscopy processing and analysis software](), Yungang Zhang, <span style="color:MediumBlue">**Rui Zhu**</span>. 2024SR0172926.
-- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Patent 2024</span> [Gas spectral visualization analysis software](), Yungang Zhang, <span style="color:MediumBlue">**Rui Zhu**</span>. 2023SR0937567.
+## ✨ Software Copyright
+- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Software Copyright 2024</span> [Carbon monoxide gas spectral processing and analysis software](), <span style="color:MediumBlue">**Rui Zhu**</span>. 2024SR1036904.
+- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Software Copyright 2024</span> [Acetone gas spectral processing and analysis software](), <span style="color:MediumBlue">**Rui Zhu**</span>. 2024SR0981596.
+- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Software Copyright 2024</span> [Nitrogen dioxide gas spectral processing and analysis software](), <span style="color:MediumBlue">**Rui Zhu**</span>. 2024SR0746974.
+- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Software Copyright 2024</span> [Carbon dioxide spectral processing and analysis software](), Yungang Zhang, <span style="color:MediumBlue">**Rui Zhu**</span>. 2024SR1127245.
+- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Software Copyright 2024</span> [Hydrogen spectral processing and analysis software](), Yungang Zhang, <span style="color:MediumBlue">**Rui Zhu**</span>. 2024SR1029287.
+- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Software Copyright 2024</span> [Ethanol gas spectral processing and analysis software](), Yungang Zhang, <span style="color:MediumBlue">**Rui Zhu**</span>. 2024SR1001217.
+- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Software Copyright 2024</span> [Carbon disulfide spectral processing and analysis software](), Yungang Zhang, <span style="color:MediumBlue">**Rui Zhu**</span>. 2024SR0230291.
+- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Software Copyright 2024</span> [Ammonia spectroscopy processing and analysis software](), Yungang Zhang, <span style="color:MediumBlue">**Rui Zhu**</span>. 2024SR0172926.
+- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Software Copyright 2023</span> [Nitric oxide gas spectroscopy processing and analysis software](), Yungang Zhang, <span style="color:MediumBlue">**Rui Zhu**</span>. 2023SR1539717.
+- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Software Copyright 2023</span> [Gas spectral visualization analysis software](), Yungang Zhang, <span style="color:MediumBlue">**Rui Zhu**</span>. 2023SR0937567.
 
 
 # 🎖 Honors and Awards
