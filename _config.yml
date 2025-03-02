@@ -22,17 +22,17 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Rui Zhu"
-  avatar           : "images/600k.jpg"
+  avatar           : "images/600k.png"
   bio              : "M.S. Candidate"
   location         : "Qinhuangdao, China"
   employer         : "Yanshan University"
-  pubmed           : "Yanshan University"
+  pubmed           : 
   googlescholar    : 
   email            : "zhurui@stumail.ysu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Rui-Zhu-108"
-  uri              : "Yanshan University"
-  bitbucket        : "Yanshan University"
-  codepen          : "Yanshan University"
+  uri              : 
+  bitbucket        : 
+  codepen          : 
   dribbble         :
   flickr           :
   facebook         :
