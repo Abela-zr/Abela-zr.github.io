@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Postgraduate student"
-description              : "Spectroscopy,     Gas sensors, Deep learning. "
+description              : "Spectroscopy, Gas sensors, Deep learning. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : False
 
@@ -27,7 +27,7 @@ author:
   location         : "Qinhuangdao, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : 
   email            : "zhurui@stumail.ysu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0009-7490-257X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
