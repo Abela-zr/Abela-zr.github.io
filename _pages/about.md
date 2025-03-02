@@ -33,8 +33,9 @@ redirect_from:
 
 国际光学工程学会学生会员、中国光学学会、中国仪器仪表学会、中国光学工程学会学生会员。
 
+<p style="text-align: justify;">
 My name is Zhu Rui, male, master degree in Yanshan University School of Electrical Engineering. My research interests are spectral analysis, optical (gas) sensor, exhaled gas ultrattrace detection, and the application of deep learning techniques. I have **published 6 SCI papers as the first author**, including **5 Top papers** in the first district of the Chinese Academy of Sciences and **1 Top paper** in the second district of the Chinese Academy of Sciences. And applied for 4 national invention patents, registered software copyright 11. And I won the national Scholarship for graduate students in 2023 and 2024. I am proficient in Python programming and familiar with TensorFlow, Pytorch, PaddlePaddle frameworks. Therefore, I was awarded "PaddlePaddle Developers Expert" by Baidu PaddlePaddle  and "New Star Creator in AI" by CSDN. At the same time, I am a student member of the International Society of Optical Engineering, a student member of the Chinese Optical Society, a student member of the Chinese Society of Instrumentation, and a student member of the Chinese Society of Optical Engineering. 
-
+</p>
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉 One paper "Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network" is accepted by Analytical Chemistry.
