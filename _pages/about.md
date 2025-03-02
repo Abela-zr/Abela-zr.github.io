@@ -67,6 +67,8 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 </div>
 </div>
 
+
+- `ICLR 2023` [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation](https://openreview.net/forum?id=UVAmFAtC5ye), Rongjie Huang, Jinglin Liu, Huadai Liu, **Yi Ren**, Lichao Zhang, Jinzheng He, Zhou Zhao
 - `AAAI 2024` [Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network](https://pubs.acs.org/doi/10.1021/acs.analchem.4c06797), **Rui Zhu**, Jie Gao, Qi Tian, Mu Li, Fei Xie, Changyin Li, Shufeng Xu, Yungang Zhang*, Analytical Chemistry, 2025, 97, 5, 3190–3197.
 - `AAAI 2024` [Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network](https://pubs.acs.org/doi/10.1021/acs.analchem.4c06797), **Rui Zhu**, Jie Gao, Qi Tian, Mu Li, Fei Xie, Changyin Li, Shufeng Xu, Yungang Zhang*, Analytical Chemistry, 2025, 97, 5, 3190–3197.
 - `AAAI 2024` [Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network](https://pubs.acs.org/doi/10.1021/acs.analchem.4c06797), **Rui Zhu**, Jie Gao, Qi Tian, Mu Li, Fei Xie, Changyin Li, Shufeng Xu, Yungang Zhang*, Analytical Chemistry, 2025, 97, 5, 3190–3197.
