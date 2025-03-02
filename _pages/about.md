@@ -21,7 +21,7 @@ redirect_from:
 
 研究兴趣是光谱分析、光学（气体）传感器、呼出气体超痕量检测以及深度学习技术的应用。
 
-以第一作者发表SCI论文6篇，其中,中科院一区Top论文5篇、二区Top论文1篇。
+以**第一作者**发表SCI论文6篇，其中,中科院一区**Top**论文5篇、二区**Top**论文1篇。
 
 申请国家发明专利4项，登记软件著作权11项。
 
@@ -33,7 +33,7 @@ redirect_from:
 
 国际光学工程学会学生会员、中国光学学会、中国仪器仪表学会、中国光学工程学会学生会员。
 
-My name is Zhu Rui, male, master degree in Yanshan University School of Electrical Engineering. My research interests are spectral analysis, optical (gas) sensors, exhaled gas ultrattrace detection, and the application of deep learning techniques. I have published 6 SCI papers as the first author, including 5 Top papers in the first district of the Chinese Academy of Sciences and 1 Top paper in the second district of the Chinese Academy of Sciences. And applied for 4 national invention patents, registered software copyright 11. And I won the national Scholarship for graduate students in 2023 and 2024. I am proficient in Python programming and familiar with TensorFlow, Pytorch, PaddlePaddle frameworks. Therefore, I was awarded "PaddlePaddle Developers Expert" by Baidu PaddlePaddle  and "New star creator in artificial intelligence" by CSDN. At the same time, I am a student member of the International Society of Optical Engineering, a student member of the Chinese Optical Society, a student member of the Chinese Society of Instrumentation, and a student member of the Chinese Society of Optical Engineering. 
+My name is Zhu Rui, male, master degree in Yanshan University School of Electrical Engineering. My research interests are spectral analysis, optical (gas) sensors, exhaled gas ultrattrace detection, and the application of deep learning techniques. I have **published 6 SCI papers as the first author**, including **5 Top papers** in the first district of the Chinese Academy of Sciences and **1 Top paper** in the second district of the Chinese Academy of Sciences. And applied for 4 national invention patents, registered software copyright 11. And I won the national Scholarship for graduate students in 2023 and 2024. I am proficient in Python programming and familiar with TensorFlow, Pytorch, PaddlePaddle frameworks. Therefore, I was awarded "PaddlePaddle Developers Expert" by Baidu PaddlePaddle  and "New star creator in artificial intelligence" by CSDN. At the same time, I am a student member of the International Society of Optical Engineering, a student member of the Chinese Optical Society, a student member of the Chinese Society of Instrumentation, and a student member of the Chinese Society of Optical Engineering. 
 
 
 # 🔥 News
