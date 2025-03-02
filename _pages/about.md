@@ -73,6 +73,19 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 - `AAAI 2024` [Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network](https://pubs.acs.org/doi/10.1021/acs.analchem.4c06797), **Rui Zhu**, Jie Gao, Qi Tian, Mu Li, Fei Xie, Changyin Li, Shufeng Xu, Yungang Zhang*, Analytical Chemistry, 2025, 97, 5, 3190–3197.
 - `AAAI 2024` [Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network](https://pubs.acs.org/doi/10.1021/acs.analchem.4c06797), **Rui Zhu**, Jie Gao, Qi Tian, Mu Li, Fei Xie, Changyin Li, Shufeng Xu, Yungang Zhang*, Analytical Chemistry, 2025, 97, 5, 3190–3197.
 
+
+## 📚 Machine Translation 
+- ``ACL 2023`` [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation](), Rongjie Huang, Huadai Liu, Xize Cheng, **Yi Ren**, et al.
+- `ICLR 2023` [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation](https://openreview.net/forum?id=UVAmFAtC5ye), Rongjie Huang, Jinglin Liu, Huadai Liu, **Yi Ren**, Lichao Zhang, Jinzheng He, Zhou Zhao
+- ``AAAI 2021`` [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/abs/2006.07926), Chen Zhang, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/uwspeech/)
+- ``IJCAI 2020`` [Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://www.ijcai.org/Proceedings/2020/0534.pdf), Jinglin Liu, **Yi Ren**, Xu Tan, et al.
+- ``ACL 2020`` [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), **Yi Ren**, Jinglin Liu, Xu Tan, et al.
+- ``ACL 2020`` [A Study of Non-autoregressive Model for Sequence Generation](https://arxiv.org/abs/2004.10454), **Yi Ren**, Jinglin Liu, Xu Tan, et al.
+- ``ICLR 2019`` [Multilingual Neural Machine Translation with Knowledge Distillation](https://openreview.net/forum?id=S1gUsoR9YX), Xu Tan, **Yi Ren**, Di He, et al.
+
+
+
+
 # 🎖 Honors and Awards
 - *2025.01*, Star Arrow Science and Technology Star Young Research Scholarship（星箭科技星青年科研奖学金）
 - *2024.12*, Star Community AI Developer of the Year （飞桨星河社区年度AI创作者）
