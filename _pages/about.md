@@ -29,7 +29,17 @@ redirect_from:
 
 申请国家发明专利4项，登记软件著作权11项。
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Zhu Rui, male, master studying in Yanshan University School of Electrical Engineering.
+
+His research interests are spectral analysis, optical (gas) sensors, exhaled gas ultrattrace detection, and the application of deep learning techniques.
+
+Student member of International Society of Optical Engineering, Chinese Optical Society, Chinese Society of Instrumentation, Chinese Society of Optical Engineering.
+
+Won the National Scholarship for graduate students in 2023 and 2024.
+
+He has published 6 SCI papers as the first author, including 5 Top papers in the first region of the Chinese Academy of Sciences and 1 Top paper in the second region of the Chinese Academy of Sciences.
+
+He applied for 4 national invention patents and registered 11 software Copyrights.
 
 
 # 🔥 News
