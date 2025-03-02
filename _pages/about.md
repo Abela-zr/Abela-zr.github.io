@@ -62,13 +62,13 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 
 **Rui Zhu**, Jie Gao, Qi Tian, Mu Li, Fei Xie, Changyin Li, Shufeng Xu, Yungang Zhang*
 
-[**Paper PDF**](https://pan.quark.cn/s/47e542bdc024) \| [**Video Demo**](https://www.bilibili.com/video/BV1be411N7JA)
+[**Paper PDF**](https://pan.quark.cn/s/47e542bdc024) \| [**Video Demo**](https://www.bilibili.com/video/BV1fX98Y4Ehm/)
 - This work realizes the detection of ammonia in exhaled breath
 </div>
 </div>
 
 
-- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Analytical Chemistry 2025</span> [Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network](https://pubs.acs.org/doi/10.1021/acs.analchem.4c06797), **Rui Zhu**, Jie Gao, Qi Tian, Mu Li, Fei Xie, Changyin Li, Shufeng Xu, Yungang Zhang*, Analytical Chemistry, 2025, 97, 5, 3190–3197.
+- <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Analytical Chemistry 2025</span> [Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network](https://pubs.acs.org/doi/10.1021/acs.analchem.4c06797), <span style="color:red">**Rui Zhu**</span>, Jie Gao, Qi Tian, Mu Li, Fei Xie, Changyin Li, Shufeng Xu, Yungang Zhang*, Analytical Chemistry, 2025, 97, 5, 3190–3197.
 - <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Sensors and Actuators B: Chemical 2024</span> [Optical chemical gas sensor based on spectral autocorrelation: A method for online detection of nitric oxide and ammonia in exhaled breath](https://www.sciencedirect.com/science/article/pii/S0925400524014242), **Rui Zhu**, Jie Gao, Qi Tian, Mu Li, Qiang Gao, Xijun Wu, Shufeng Xu, Yungang Zhang*, Sensors and Actuators B: Chemical, 2025, 422, 136694.
 - <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">ACS Sensors 2024</span> [Ppb-Level Ammonia Sensor for Exhaled Breath Diagnosis Based on UV-DOAS Combined with Spectral Reconstruction Fitting Neural Network](https://pubs.acs.org/doi/10.1021/acssensors.4c01525), **Rui Zhu**, Qiwen Zhou, Qi Tian, Shuo Zhao, Wanyi Qin, Xijun Wu, Shufeng Xu, Yungang Zhang*, ACS Sensors, 2024, 9, 8, 4286–4294.
 - <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">ACS Sensorsy 2024</span> [Ultrasensitive Online NO Sensor Based on a Distributed Parallel Self-Regulating Neural Network and Ultraviolet Differential Optical Absorption Spectroscopy for Exhaled Breath Diagnosis](https://pubs.acs.org/doi/abs/10.1021/acssensors.3c02625), **Rui Zhu**, Jie Gao, Mu Li, Yongqi Wu, Qiang Gao, Xijun Wu, Yungang Zhang*, ACS Sensors, 2024, 9, 3, 1499–1507
