@@ -21,25 +21,15 @@ redirect_from:
 
 研究兴趣是光谱分析、光学（气体）传感器、呼出气体超痕量检测以及深度学习技术的应用。
 
-国际光学工程学会学生会员、中国光学学会、中国仪器仪表学会、中国光学工程学会学生会员。
-
-荣获2023年、2024年研究生国家奖学金。
-
 以第一作者发表SCI论文6篇，其中,中科院一区Top论文5篇、二区Top论文1篇。
 
 申请国家发明专利4项，登记软件著作权11项。
 
-Zhu Rui, male, master studying in Yanshan University School of Electrical Engineering.
+荣获2023年、2024年研究生国家奖学金。
 
-His research interests are spectral analysis, optical (gas) sensors, exhaled gas ultrattrace detection, and the application of deep learning techniques.
+国际光学工程学会学生会员、中国光学学会、中国仪器仪表学会、中国光学工程学会学生会员。
 
-Student member of International Society of Optical Engineering, Chinese Optical Society, Chinese Society of Instrumentation, Chinese Society of Optical Engineering.
-
-Won the National Scholarship for graduate students in 2023 and 2024.
-
-He has published 6 SCI papers as the first author, including 5 Top papers in the first region of the Chinese Academy of Sciences and 1 Top paper in the second region of the Chinese Academy of Sciences.
-
-He applied for 4 national invention patents and registered 11 software Copyrights.
+My name is Zhu Rui, male, master degree in Yanshan University School of Electrical Engineering. My research interests are spectral analysis, optical (gas) sensors, exhaled gas ultrattrace detection, and the application of deep learning techniques. I have published 6 SCI papers as the first author, including 5 Top papers in the first district of the Chinese Academy of Sciences and 1 Top paper in the second district of the Chinese Academy of Sciences. And applied for 4 national invention patents, registered software copyright 11. At the same time, I am a student member of the International Society of Optical Engineering, a student member of the Chinese Optical Society, a student member of the Chinese Society of Instrumentation, and a student member of the Chinese Society of Optical Engineering. And I won the national Scholarship for graduate students in 2023 and 2024.
 
 
 # 🔥 News
