@@ -128,12 +128,15 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 - <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Optics & Laser Technology 2024</span> [Multiparameter gas sensor based on UV-SFR combined with wavelet transform-neural network at ppb level](https://www.sciencedirect.com/science/article/pii/S0030399224004183), <span style="color:MediumBlue">**Rui Zhu**</span>, Jie Gao, Mu Li, Yongqi Wu, Xijun Wu, Yungang Zhang*,Optics & Laser Technology, 2024, 176, 110960. <span style="background-color: DarkRed; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">中科院二区Top IF:4.6</span>
 - <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Sensors and Actuators B: Chemical 2023</span> [A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model](https://www.sciencedirect.com/science/article/pii/S0925400523011553), <span style="color:MediumBlue">**Rui Zhu**</span>, Jie Gao, Mu Li, Qiang Gao, Xijun Wu, Yungang Zhang*, Sensors and Actuators B: Chemical, 2023, 394, 134440.  <span style="background-color: DarkRed; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">中科院一区Top IF:8.0</span>
 
+--------
 
 ## 📚 Patent
 - <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Patent 2024</span> [A device and method for detecting the concentration of mixed gases based on the autocorrelation of absorption spectra](), Yungang Zhang, <span style="color:MediumBlue">**Rui Zhu**</span>, et al. CN118130412A.
 - <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Patent 2024</span> [A device and method for measuring the absorption cross section of oxygen and ozone](), Yungang Zhang, Shuo Zhao, <span style="color:MediumBlue">**Rui Zhu**</span>, et al. CN118758885A.
 - <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Patent 2024</span> [Device and method for detecting high temperature aluminum rolling oil concentration based on multi-peak correlation analysis](), Yungang Zhang, Wanyi Qin, Jie Gao, <span style="color:MediumBlue">**Rui Zhu**</span>, et al. CN118624556A.
 - <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Patent 2024</span> [A system and method for reconstructing radial morphology of high-temperature forgings based on non-field-of-view mirror mapping](), Yungang Zhang, Qiwen Zhou, Bin Liu, Mu Li, <span style="color:MediumBlue">**Rui Zhu**</span>, et al. CN118463863A.
+
+---------
 
 ## 📚 Software Copyright
 - <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Patent 2024</span> [Carbon monoxide gas spectral processing and analysis software](), <span style="color:MediumBlue">**Rui Zhu**</span>. 2024SR1036904.
