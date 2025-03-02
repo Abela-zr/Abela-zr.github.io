@@ -54,6 +54,7 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 - *2022.06*: &nbsp;🎉 I won the "Honor Graduate of Liaoning University（辽宁省优秀毕业生）".
 
 # 📝 Publications 
+## 🎯 Research Article
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Analytical Chemistry 2025</div><img src='images/Papers/paper5.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,7 +64,8 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 <span style="color:MediumBlue">**Rui Zhu**</span>, Jie Gao, Qi Tian, Mu Li, Fei Xie, Changyin Li, Shufeng Xu, Yungang Zhang*
 
 [**Paper PDF**](https://pan.quark.cn/s/47e542bdc024) \| [**Video Demo**](https://www.bilibili.com/video/BV1fX98Y4Ehm/)
-- This work realizes the detection of ammonia in exhaled breath
+- This work proposes a multiperiodic spectral reconstruction technique.
+- This work enables the detection of nitric oxide in exhaled breath.
 </div>
 </div>
 
@@ -74,8 +76,9 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 
 <span style="color:MediumBlue">**Rui Zhu**</span>, Jie Gao, Qi Tian, Mu Li, Qiang Gao, Xijun Wu, Shufeng Xu, Yungang Zhang*
 
-[**Paper PDF**](https://pan.quark.cn/s/47e542bdc024)
-- This work realizes the detection of ammonia in exhaled breath
+[**Paper PDF**](https://pan.quark.cn/s/a0fff1e837f3)
+- This work proposes a spectral cyclic autocorrelation technique.
+- This work enables simultaneous detection of nitric oxide and ammonia in exhaled breath.
 </div>
 </div>
 
@@ -86,8 +89,9 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 
 <span style="color:MediumBlue">**Rui Zhu**</span>, Qiwen Zhou, Qi Tian, Shuo Zhao, Wanyi Qin, Xijun Wu, Shufeng Xu, Yungang Zhang*
 
-[**Paper PDF**](https://pan.quark.cn/s/47e542bdc024)
-- This work realizes the detection of ammonia in exhaled breath
+[**Paper PDF**](https://pan.quark.cn/s/bb3b62af0e8e)
+- This work brings forward the idea of spectral reconstruction.
+- This work enables the detection of ammonia in exhaled breath.
 </div>
 </div>
 
@@ -98,8 +102,9 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 
 <span style="color:MediumBlue">**Rui Zhu**</span>, Jie Gao, Mu Li, Yongqi Wu, Qiang Gao, Xijun Wu, Yungang Zhang*
 
-[**Paper PDF**](https://pan.quark.cn/s/47e542bdc024)
-- This work realizes the detection of ammonia in exhaled breath
+[**Paper PDF**](https://pan.quark.cn/s/ad978e2100bd)
+- This work takes into account the absorption characteristics of nitric oxide itself to construct the neural network model structure.
+- This work enables simultaneous detection of nitric oxide and ammonia in exhaled breath.
 </div>
 </div>
 
@@ -110,8 +115,9 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 
 <span style="color:MediumBlue">**Rui Zhu**</span>, Jie Gao, Mu Li, Qiang Gao, Xijun Wu, Yungang Zhang*
 
-[**Paper PDF**](https://pan.quark.cn/s/47e542bdc024)
-- This work realizes the detection of ammonia in exhaled breath
+[**Paper PDF**](https://pan.quark.cn/s/356f416f83dd)
+- This work introduces transfer learning to solve the problem of small sample size mixed gas spectral data.
+- This work enables simultaneous measurement of carbon disulfide and sulfur dioxide in GAS Insulated switchgear (GIS).
 </div>
 </div>
 
@@ -123,7 +129,7 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 - <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Sensors and Actuators B: Chemical 2023</span> [A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model](https://www.sciencedirect.com/science/article/pii/S0925400523011553), <span style="color:MediumBlue">**Rui Zhu**</span>, Jie Gao, Mu Li, Qiang Gao, Xijun Wu, Yungang Zhang*, Sensors and Actuators B: Chemical, 2023, 394, 134440. 
 
 
-## 📚 Machine Translation 
+## 📚 patent
 - ``ACL 2023`` [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation](), Rongjie Huang, Huadai Liu, Xize Cheng, **Yi Ren**, et al.
 - `ICLR 2023` [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation](https://openreview.net/forum?id=UVAmFAtC5ye), Rongjie Huang, Jinglin Liu, Huadai Liu, **Yi Ren**, Lichao Zhang, Jinzheng He, Zhou Zhao
 - ``AAAI 2021`` [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/abs/2006.07926), Chen Zhang, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/uwspeech/)
