@@ -40,16 +40,18 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 - *2025.01*: &nbsp;🎉 One paper "Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network" is accepted by Analytical Chemistry.
 - *2024.12*: &nbsp;🎉 I won the "Star Arrow Science and Technology Star Young Research Scholarship（星箭科技星青年科研奖学金）"sponsored by Star Arrow Science and Technology.
 - *2024.12*: &nbsp;🎉 I was awarded the "Star Community AI Developer of the Year（飞桨星河社区年度AI开发者）" by Baidu PaddlePaddle.
-- *2024.11*: &nbsp;🎉 I won the "Model Student of Yanshan University（燕山大学三好学生标兵）".
+- *2024.11*: &nbsp;🎉 I won the "Model Merit Student of Yanshan University（燕山大学三好学生标兵）".
 - *2024.11*: &nbsp;🎉 I won the "Haitian Fund Scholarship（海天基金奖学金）" sponsored by Haitian Group.
-- *2024.10*: &nbsp;🎉 I won the "National Scholarship（国家奖学金）".
+- *2024.11*: &nbsp;🎉 I won the "National Scholarship（国家奖学金）".
 - *2024.09*: &nbsp;🎉 One paper "Optical chemical gas sensor based on spectral autocorrelation: A method for online detection of nitric oxide and ammonia in exhaled breath" is accepted by Sensors and Actuators B: Chemical.
 - *2024.07*: &nbsp;🎉 One paper "Ppb-Level Ammonia Sensor for Exhaled Breath Diagnosis Based on UV-DOAS Combined with Spectral Reconstruction Fitting Neural Network" is accepted by ACS Sensors.
 - *2024.04*: &nbsp;🎉 One paper "Multiparameter gas sensor based on UV-SFR combined with wavelet transform-neural network at ppb level" is accepted by Optics & Laser Technology.
+- *2024.03*: &nbsp;🎉 I won the "Merit student of Hebei Province（河北省三好学生）".
 - *2024.01*: &nbsp;🎉 One paper "Ultrasensitive Online NO Sensor Based on a Distributed Parallel Self-Regulating Neural Network and Ultraviolet Differential Optical Absorption Spectroscopy for Exhaled Breath Diagnosis" is accepted by ACS Sensors.
 - *2023.10*: &nbsp;🎉 I won the "National Scholarship（国家奖学金）".
 - *2023.08*: &nbsp;🎉 I won the "PaddlePaddle Developers Expert（飞桨开发者技术专家）" by Baidu PaddlePaddle.
 - *2023.07*: &nbsp;🎉 One paper "A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model" is accepted by Sensors and Actuators B: Chemical.
+- *2022.06*: &nbsp;🎉 I won the "Honor Graduate of Liaoning University（辽宁省优秀毕业生）".
 
 # 📝 Publications 
 
@@ -68,8 +70,21 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01*, Star Arrow Science and Technology Star Young Research Scholarship（星箭科技星青年科研奖学金）
+- *2024.12*, Star Community AI Developer of the Year （飞桨星河社区年度AI创作者）
+- *2024.12*, Model Merit Student of Yanshan University（燕山大学三好学生标兵）
+- *2024.12*, Merit Student of Yanshan University（燕山大学三好学生）
+- *2024.11*, National Scholarship（国家奖学金）
+- *2024.11*, Haitian Fund Scholarship（海天基金奖学金）
+- *2024.10*, First-class Scholarship for postgraduate students of Yanshan University（燕山大学一等学业奖学金）
+- *2024.03*, Merit student of Hebei Province（河北省三好学生）
+- *2023.11*, Merit Student of Yanshan University（燕山大学三好学生）
+- *2023.11*, National Scholarship（国家奖学金）
+- *2023.10*, First-class Scholarship for postgraduate students of Yanshan University（燕山大学一等学业奖学金）
+- *2022.10*, Second-class Scholarship for postgraduate students of Yanshan University（燕山大学二等学业奖学金）
+- *2022.06*, Honor Graduate of Liaoning University（辽宁省优秀毕业生）
+- *2022.06*, Honor Graduate of Shenyang University of Technology（沈阳工业大学优秀毕业生）
+- *2021.09*, Outstanding Student Cadre of Shenyang University of Technology（沈阳工业大学优秀学生干部）
 
 # 📖 Educations
 - *2022.09 - 2025.06 (now)*, Master, Yanshan Univerity, Qinhuangdao.
@@ -79,6 +94,3 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 - *2024.12*, Graduate Innovation Forum, School of Electrical Engineering, Yanshan University.
 - *2024.11*, Hosted "Knowledge Sharing, Academic Progress Together" Academic Salon, School of Electrical Engineering, Yanshan University.
 - *2023.12*, Graduate Innovation Forum, School of Electrical Engineering, Yanshan University.
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
