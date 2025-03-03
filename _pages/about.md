@@ -39,21 +39,21 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 
 # 🔥 News
 
--  <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.01*</span>: &nbsp;🎉 One paper "Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network" is accepted by Analytical Chemistry.
-- *2024.12*: &nbsp;🎉 I won the "Star Arrow Science and Technology Star Young Research Scholarship（星箭科技星青年科研奖学金）"sponsored by Star Arrow Science and Technology.
-- *2024.12*: &nbsp;🎉 I was awarded the "Star Community AI Developer of the Year（飞桨星河社区年度AI开发者）" by Baidu PaddlePaddle.
-- *2024.11*: &nbsp;🎉 I won the "Model Merit Student of Yanshan University（燕山大学三好学生标兵）".
-- *2024.11*: &nbsp;🎉 I won the "Haitian Fund Scholarship（海天基金奖学金）" sponsored by Haitian Group.
-- *2024.11*: &nbsp;🎉 I won the "National Scholarship（国家奖学金）".
-- *2024.09*: &nbsp;🎉 One paper "Optical chemical gas sensor based on spectral autocorrelation: A method for online detection of nitric oxide and ammonia in exhaled breath" is accepted by Sensors and Actuators B: Chemical.
-- *2024.07*: &nbsp;🎉 One paper "Ppb-Level Ammonia Sensor for Exhaled Breath Diagnosis Based on UV-DOAS Combined with Spectral Reconstruction Fitting Neural Network" is accepted by ACS Sensors.
-- *2024.04*: &nbsp;🎉 One paper "Multiparameter gas sensor based on UV-SFR combined with wavelet transform-neural network at ppb level" is accepted by Optics & Laser Technology.
-- *2024.03*: &nbsp;🎉 I won the "Merit student of Hebei Province（河北省三好学生）".
-- *2024.01*: &nbsp;🎉 One paper "Ultrasensitive Online NO Sensor Based on a Distributed Parallel Self-Regulating Neural Network and Ultraviolet Differential Optical Absorption Spectroscopy for Exhaled Breath Diagnosis" is accepted by ACS Sensors.
-- *2023.10*: &nbsp;🎉 I won the "National Scholarship（国家奖学金）".
-- *2023.08*: &nbsp;🎉 I won the "PaddlePaddle Developers Expert（飞桨开发者技术专家）" by Baidu PaddlePaddle.
-- *2023.07*: &nbsp;🎉 One paper "A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model" is accepted by Sensors and Actuators B: Chemical.
-- *2022.06*: &nbsp;🎉 I won the "Honor Graduate of Liaoning University（辽宁省优秀毕业生）".
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.01*</span> &nbsp;🎉 One paper "Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network" is accepted by Analytical Chemistry.
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.12*</span> &nbsp;🎉 I won the "Star Arrow Science and Technology Star Young Research Scholarship（星箭科技星青年科研奖学金）"sponsored by Star Arrow Science and Technology.
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.12*</span> &nbsp;🎉 I was awarded the "Star Community AI Developer of the Year（飞桨星河社区年度AI开发者）" by Baidu PaddlePaddle.
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.11*</span> &nbsp;🎉 I won the "Model Merit Student of Yanshan University（燕山大学三好学生标兵）".
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.11*</span> &nbsp;🎉 I won the "Haitian Fund Scholarship（海天基金奖学金）" sponsored by Haitian Group.
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.11*</span> &nbsp;🎉 I won the "National Scholarship（国家奖学金）".
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.09*</span> &nbsp;🎉 One paper "Optical chemical gas sensor based on spectral autocorrelation: A method for online detection of nitric oxide and ammonia in exhaled breath" is accepted by Sensors and Actuators B: Chemical.
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.07*</span> &nbsp;🎉 One paper "Ppb-Level Ammonia Sensor for Exhaled Breath Diagnosis Based on UV-DOAS Combined with Spectral Reconstruction Fitting Neural Network" is accepted by ACS Sensors.
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.04*</span> &nbsp;🎉 One paper "Multiparameter gas sensor based on UV-SFR combined with wavelet transform-neural network at ppb level" is accepted by Optics & Laser Technology.
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.03*</span> &nbsp;🎉 I won the "Merit student of Hebei Province（河北省三好学生）".
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.01*</span> &nbsp;🎉 One paper "Ultrasensitive Online NO Sensor Based on a Distributed Parallel Self-Regulating Neural Network and Ultraviolet Differential Optical Absorption Spectroscopy for Exhaled Breath Diagnosis" is accepted by ACS Sensors.
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.10*</span> &nbsp;🎉 I won the "National Scholarship（国家奖学金）".
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.08*</span> &nbsp;🎉 I won the "PaddlePaddle Developers Expert（飞桨开发者技术专家）" by Baidu PaddlePaddle.
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.07*</span> &nbsp;🎉 One paper "A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model" is accepted by Sensors and Actuators B: Chemical.
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2022.06*</span> &nbsp;🎉 I won the "Honor Graduate of Liaoning University（辽宁省优秀毕业生）".
 
 
 # 📝 Publications 
