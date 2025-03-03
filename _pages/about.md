@@ -172,32 +172,32 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 
 
 # 🎖 Honors and Awards
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.01*</span> &nbsp;Star Arrow Science and Technology Star Young Research Scholarship（星箭科技星青年科研奖学金）
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.12*</span> &nbsp;Star Community AI Developer of the Year （飞桨星河社区年度AI创作者）
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.12*</span> &nbsp;Model Merit Student of Yanshan University（燕山大学三好学生标兵）
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.12*</span> &nbsp;Merit Student of Yanshan University（燕山大学三好学生）
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.11*</span> &nbsp;National Scholarship（国家奖学金）
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.11*</span> &nbsp;Haitian Fund Scholarship（海天基金奖学金）
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.10*</span> &nbsp;First-class Scholarship for postgraduate students of Yanshan University（燕山大学一等学业奖学金）
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.03*</span> &nbsp;Merit student of Hebei Province（河北省三好学生）
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.11*</span> &nbsp;Merit Student of Yanshan University（燕山大学三好学生）
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.11*</span> &nbsp;National Scholarship（国家奖学金）
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.10*</span> &nbsp;First-class Scholarship for postgraduate students of Yanshan University（燕山大学一等学业奖学金）
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.08*</span> &nbsp;PaddlePaddle Developers Expert（飞桨开发者技术专家）
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2022.10*</span> &nbsp;Second-class Scholarship for postgraduate students of Yanshan University（燕山大学二等学业奖学金）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.01*</span> &nbsp;Star Arrow Science and Technology Star Young Research Scholarship（星箭科技星青年科研奖学金）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.12*</span> &nbsp;Star Community AI Developer of the Year （飞桨星河社区年度AI创作者）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.12*</span> &nbsp;Model Merit Student of Yanshan University（燕山大学三好学生标兵）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.12*</span> &nbsp;Merit Student of Yanshan University（燕山大学三好学生）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.11*</span> &nbsp;National Scholarship（国家奖学金）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.11*</span> &nbsp;Haitian Fund Scholarship（海天基金奖学金）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.10*</span> &nbsp;First-class Scholarship for postgraduate students of Yanshan University（燕山大学一等学业奖学金）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.03*</span> &nbsp;Merit student of Hebei Province（河北省三好学生）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.11*</span> &nbsp;Merit Student of Yanshan University（燕山大学三好学生）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.11*</span> &nbsp;National Scholarship（国家奖学金）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.10*</span> &nbsp;First-class Scholarship for postgraduate students of Yanshan University（燕山大学一等学业奖学金）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.08*</span> &nbsp;PaddlePaddle Developers Expert（飞桨开发者技术专家）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2022.10*</span> &nbsp;Second-class Scholarship for postgraduate students of Yanshan University（燕山大学二等学业奖学金）
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2022.06*</span> &nbsp;Honor Graduate of Liaoning University（辽宁省优秀毕业生）
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2022.06*</span> &nbsp;Honor Graduate of Shenyang University of Technology（沈阳工业大学优秀毕业生）
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2021.09*</span> &nbsp;Outstanding Student Cadre of Shenyang University of Technology（沈阳工业大学优秀学生干部）
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2021.09*</span> &nbsp;New Star Creator in AI（人工智能领域新星创作者）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2022.06*</span> &nbsp;Honor Graduate of Shenyang University of Technology（沈阳工业大学优秀毕业生）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2021.09*</span> &nbsp;Outstanding Student Cadre of Shenyang University of Technology（沈阳工业大学优秀学生干部）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2021.09*</span> &nbsp;New Star Creator in AI（人工智能领域新星创作者）
 
 # 📖 Educations
 - *2022.09 - 2025.06 (now)*, Master, Yanshan Univerity, Qinhuangdao.
 - *2018.09 - 2022.06*, Undergraduate, Shenyang University of Technology, Shenyang.
 
 # 💬 Invited Talks
-- *2024.12*, Graduate Innovation Forum, School of Electrical Engineering, Yanshan University.
-- *2024.11*, Hosted "Knowledge Sharing, Academic Progress Together" Academic Salon, School of Electrical Engineering, Yanshan University.
-- *2023.12*, Graduate Innovation Forum, School of Electrical Engineering, Yanshan University.
+- <span style="background-color: #BF3EFF; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.12*</span> &nbsp;Graduate Innovation Forum, School of Electrical Engineering, Yanshan University.
+- <span style="background-color: #BF3EFF; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.11*</span> &nbsp;Hosted "Knowledge Sharing, Academic Progress Together" Academic Salon, School of Electrical Engineering, Yanshan University.
+- <span style="background-color: #BF3EFF; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.12*</span> &nbsp;Graduate Innovation Forum, School of Electrical Engineering, Yanshan University.
 
 # 💻 Internships
 - NO
