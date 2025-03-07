@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/working.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/worker.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **朱瑞，男，硕士在读于燕山大学电气工程学院**
