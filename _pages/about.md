@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Sensors 2024</div><img src='images/Papers/paper2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/working.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
