@@ -20,37 +20,18 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/working.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
-朱瑞，男，硕士在读于燕山大学电气工程学院
-
-- 研究兴趣是光谱分析、光学（气体）传感器、呼出气体超痕量检测以及深度学习技术的应用。
-- 以<span style="color:red">第一作者</span>发表SCI论文7篇，其中,中科院一区<span style="color:red">Top</span>论文5篇、二区<span style="color:red">Top</span>论文1篇。
-- 申请国家发明专利4项，登记软件著作权11项。
-- 荣获2023年、2024年研究生国家奖学金。
-- 精通Python编程，熟悉TensorFlow、Pytorch、PaddlePaddle框架。
-- 被百度飞桨授予“飞桨开发者技术专家”，被CSDN授予“人工智能领域新星创作者”。
-- 国际光学工程学会学生会员、中国光学学会、中国仪器仪表学会、中国光学工程学会学生会员。
+- **朱瑞，男，硕士在读于燕山大学电气工程学院**
+- **研究兴趣是光谱分析、光学（气体）传感器、呼出气体超痕量检测以及深度学习技术的应用**
+- **以<span style="color:red">第一作者</span>发表SCI论文7篇，其中,中科院一区<span style="color:red">Top</span>论文5篇、二区<span style="color:red">Top</span>论文1篇**
+- **申请国家发明专利4项，登记软件著作权11项**
+- **荣获2023年、2024年研究生国家奖学金**
+- **精通Python编程，熟悉TensorFlow、Pytorch、PaddlePaddle框架**
+- **被百度飞桨授予“飞桨开发者技术专家”，被CSDN授予“人工智能领域新星创作者”**
+- **国际光学工程学会学生会员、中国光学学会、中国仪器仪表学会、中国光学工程学会学生会员**
 </div>
 </div>
-
-
-**朱瑞，男，硕士在读于燕山大学电气工程学院。**
-
-**研究兴趣是光谱分析、光学（气体）传感器、呼出气体超痕量检测以及深度学习技术的应用。**
-
-**以<span style="color:red">第一作者</span>发表SCI论文7篇，其中,中科院一区<span style="color:red">Top</span>论文5篇、二区<span style="color:red">Top</span>论文1篇。**
-
-**申请国家发明专利4项，登记软件著作权11项。**
-
-**荣获2023年、2024年研究生国家奖学金。**
-
-**精通Python编程，熟悉TensorFlow、Pytorch、PaddlePaddle框架。**
-
-**被百度飞桨授予“飞桨开发者技术专家”，被CSDN授予“人工智能领域新星创作者”。**
-
-**国际光学工程学会学生会员、中国光学学会、中国仪器仪表学会、中国光学工程学会学生会员。**
-
 <p style="text-align: justify;">
+  
 My name is Zhu Rui, male, master degree in Yanshan University School of Electrical Engineering. My research interests are spectral analysis, optical (gas) sensor, exhaled gas ultrattrace detection, and the application of deep learning techniques. I have published 7 SCI papers as the first author, including 5 Top papers in the first district of the Chinese Academy of Sciences and 1 Top paper in the second district of the Chinese Academy of Sciences. And applied for 4 national invention patents, registered software copyright 11. And I won the national Scholarship for graduate students in 2023 and 2024. I am proficient in Python programming and familiar with TensorFlow, Pytorch, PaddlePaddle frameworks. Therefore, I was awarded "PaddlePaddle Developers Expert" by Baidu PaddlePaddle  and "New Star Creator in AI" by CSDN. At the same time, I am a student member of the International Society of Optical Engineering, a student member of the Chinese Optical Society, a student member of the Chinese Society of Instrumentation, and a student member of the Chinese Society of Optical Engineering. 
 </p>
 
