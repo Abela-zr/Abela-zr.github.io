@@ -37,6 +37,7 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 
 # 🔥 News
 
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.03*</span> &nbsp;🎉 I won the "Merit student of Hebei Province（河北省三好学生）".
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.03*</span> &nbsp;🎉 One paper "Wide Range Concentration Measurement of Sulfur Dioxide Based on Adaptive Sliding Window Absorption Spectroscopy" is accepted by Spectroscopy and Spectral Analysis.
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.01*</span> &nbsp;🎉 One paper "Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network" is accepted by Analytical Chemistry.
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.12*</span> &nbsp;🎉 I won the "Star Arrow Science and Technology Star Young Research Scholarship（星箭科技星青年科研奖学金）"sponsored by Star Arrow Science and Technology.
@@ -173,6 +174,7 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 
 
 # 🎖 Honors and Awards
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.03*</span> &nbsp;Merit student of Hebei Province（河北省三好学生）
 - <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.01*</span> &nbsp;Star Arrow Science and Technology Star Young Research Scholarship（星箭科技星青年科研奖学金）
 - <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.12*</span> &nbsp;Star Community AI Developer of the Year （飞桨星河社区年度AI创作者）
 - <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.12*</span> &nbsp;Model Merit Student of Yanshan University（燕山大学三好学生标兵）
