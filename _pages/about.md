@@ -20,12 +20,13 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/worker.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **朱瑞，男，硕士在读于燕山大学电气工程学院**
-- **研究兴趣是光谱分析、光学（气体）传感器、呼出气体超痕量检测以及深度学习技术的应用**
+- **朱瑞，男，博士在读于华东师范大学精密光谱科学与技术国家重点实验室、精密光谱科学与技术高等研究院**
+- **研究兴趣是双光梳光谱、光谱分析、光学（气体）传感器、呼出气体超痕量检测以及深度学习技术的应用**
 - **以<span style="color:red">第一作者</span>发表SCI论文7篇，其中,中科院一区<span style="color:red">Top</span>论文5篇、二区<span style="color:red">Top</span>论文1篇**
 - **申请国家发明专利4项，登记软件著作权11项**
-- **荣获2023年、2024年研究生国家奖学金**
-- **精通Python编程，熟悉TensorFlow、Pytorch、PaddlePaddle框架**
+- **荣获2025 SPIE Optics and Photonics Scholarship**
+- **荣获2025年度仪器仪表学会奖学金、2025年度叶声华奖学金**
+- **荣获2023年、2024年硕士研究生国家奖学金**
 - **被百度飞桨授予“飞桨开发者技术专家”，被CSDN授予“人工智能领域新星创作者”**
 - **国际光学工程学会学生会员、中国光学学会、中国仪器仪表学会、中国光学工程学会学生会员**
 </div>
@@ -37,6 +38,11 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 
 # 🔥 News
 
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.07*</span> &nbsp;🎉 I won the "2025 Instrumentation Society Scholarship（2025年度仪器仪表学会奖学金）".
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;🎉 I won the "2025 Ye Shenghua Scholarship（2025年度叶声华奖学金）".
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;🎉 I won the "2025 KunPeng Scholarship（2025年度鲲鹏奖学金）".
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.05*</span> &nbsp;🎉 I won the "2025 SPIE Optics and Photonics Scholarship（2025年度国际光学工程学会光学与光子学教育奖学金）".
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.05*</span> &nbsp;🎉 I was featured in “The People's Daily” as one of the “100 Scholarship Recipients of the 2024 Graduate Student National Scholarship”.
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.04*</span> &nbsp;🎉 I won the "Excellent Poster Award（优秀海报奖）" in the Poster Competition of the 2025 National Doctoral Academic League on Optics and Optical Engineering.
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.04*</span> &nbsp;🎉 I won the "Honor Graduate of Hebei University（河北省优秀毕业生）".
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.03*</span> &nbsp;🎉 I won the "Merit student of Hebei Province（河北省三好学生）".
@@ -179,6 +185,11 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 
 
 # 🎖 Honors and Awards
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.07*</span> &nbsp;Instrumentation Society Scholarship（仪器仪表学会奖学金）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;Ye Shenghua Scholarship（叶声华奖学金）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;KunPeng Scholarship（鲲鹏奖学金）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.05*</span> &nbsp;SPIE Optics and Photonics Scholarship（国际光学工程学会光学与光子学教育奖学金）
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.05*</span> &nbsp;Featured in “The People's Daily” as one of the “100 Scholarship Recipients of the 2024 Graduate Student National Scholarship”.（被《人民日报》专版刊登“2024年研究生国家奖学金100获奖学金代表”）
 - <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.03*</span> &nbsp;Merit student of Hebei Province（河北省三好学生）
 - <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.01*</span> &nbsp;Star Arrow Science and Technology Star Young Research Scholarship（星箭科技星青年科研奖学金）
 - <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.12*</span> &nbsp;Star Community AI Developer of the Year （飞桨星河社区年度AI创作者）
@@ -199,7 +210,8 @@ My name is Zhu Rui, male, master degree in Yanshan University School of Electric
 - <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2021.09*</span> &nbsp;New Star Creator in AI（人工智能领域新星创作者）
 
 # 📖 Educations
-- *2022.09 - 2025.06 (now)*, Master, Yanshan Univerity, Qinhuangdao.
+- *2025.09 - 2029.06*, PhD, East China Normal University, Shanghai.
+- *2022.09 - 2025.06*, Master, Yanshan Univerity, Qinhuangdao.
 - *2018.09 - 2022.06*, Undergraduate, Shenyang University of Technology, Shenyang.
 
 # 💬 Invited Talks
