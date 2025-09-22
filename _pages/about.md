@@ -38,11 +38,12 @@ My name is Zhu Rui, male, and I am a doctoral student in the State Key Laborator
 
 # 🔥 News
 
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.09*</span> &nbsp;🎉 I delivered a speech as a doctoral student representative at the opening ceremony of the Advanced Institute of Precision Spectroscopy Science and Technology at ECNU.
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.07*</span> &nbsp;🎉 I won the "2025 Instrumentation Society Scholarship（2025年度仪器仪表学会奖学金）".
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;🎉 I won the "2025 Ye Shenghua Scholarship（2025年度叶声华奖学金）".
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;🎉 I won the "2025 KunPeng Scholarship（2025年度鲲鹏奖学金）".
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.05*</span> &nbsp;🎉 I won the "2025 SPIE Optics and Photonics Scholarship（2025年度国际光学工程学会光学与光子学教育奖学金）".
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.05*</span> &nbsp;🎉 I was featured in “The People's Daily” as one of the “100 Scholarship Recipients of the 2024 Graduate Student National Scholarship”.
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.05*</span> &nbsp;🎉 I was featured in “The People's Daily（《人民日报》）” as one of the “100 Scholarship Recipients of the 2024 Graduate Student National Scholarship（2024年研究生果国家奖学金获奖学生代表名录）”.
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.04*</span> &nbsp;🎉 I won the "Excellent Poster Award（优秀海报奖）" in the Poster Competition of the 2025 National Doctoral Academic League on Optics and Optical Engineering.
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.04*</span> &nbsp;🎉 I won the "Honor Graduate of Hebei University（河北省优秀毕业生）".
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.03*</span> &nbsp;🎉 I won the "Merit student of Hebei Province（河北省三好学生）".
