@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/worker.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/worker1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **朱瑞，男，博士在读于华东师范大学精密光谱科学与技术国家重点实验室、精密光谱科学与技术高等研究院**
@@ -38,6 +38,7 @@ My name is Zhu Rui, male, and I am a doctoral student in the State Key Laborator
 
 # 🔥 News
 
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.11*</span> &nbsp;🎉 I won the "The 2025 Outstanding Doctoral Dissertation Cultivation Funding Project（2025年优秀博士学位论文培育资助项目）" of the State Key Laboratory of Precision Spectroscopy Science and Technology.
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.09*</span> &nbsp;🎉 I delivered a speech as a doctoral student representative at the opening ceremony of the Advanced Institute of Precision Spectroscopy Science and Technology at ECNU.
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.07*</span> &nbsp;🎉 I won the "2025 Instrumentation Society Scholarship（2025年度仪器仪表学会奖学金）".
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;🎉 I won the "2025 Ye Shenghua Scholarship（2025年度叶声华奖学金）".
