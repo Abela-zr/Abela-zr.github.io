@@ -34,56 +34,63 @@ redirect_from:
 
 # 🔥 News
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.11*</span> &nbsp;🎉 荣获华东师范大学精密光谱科学与技术高等研究院“2025年优秀博士学位论文培育资助项目”。
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.09*</span> &nbsp;🎉 在华东师范大学精密光谱科学与技术研究院的开学典礼上，作为博士生代表发表讲话。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.04*</span> &nbsp;🎉 论文 "A sub-ppb SO2 sensor system for atmospheric monitoring based on a dual-path spectral reconstruction neural network combined with UV-DOAS" 被《Sensors and Actuators B: Chemical》期刊接收.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.07*</span> &nbsp;🎉 荣获2025年度仪器仪表学会“学会一等奖学金”。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.01*</span> &nbsp;🎉 被百度飞桨授予“**2025年度飞桨星河年度开发者**”.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;🎉 荣获2025年度教育部“叶声华奖学金”。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.11*</span> &nbsp;🎉 荣获华东师范大学精密光谱科学与技术高等研究院“**2025年优秀博士学位论文培育资助项目**”.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;🎉 荣获2025年度燕山大学“鲲鹏奖学金卓越奖”。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.09*</span> &nbsp;🎉 在华东师范大学精密光谱科学与技术研究院的开学典礼上，作为**博士生代表**发表讲话.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.05*</span> &nbsp;🎉 荣获2025年度SPIE（国际光学工程学会）“光学与光子学教育奖学金”。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.07*</span> &nbsp;🎉 荣获2025年度仪器仪表学会“**学会一等奖学金**”.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.05*</span> &nbsp;🎉 入选《人民日报》“2024年研究生国家奖学金获奖学生代表名录”（100名获奖学生代表之一）。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;🎉 荣获2025年度教育部“**叶声华奖学金**”.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.04*</span> &nbsp;🎉 在2025年全国光学与光学工程博士生学术联赛海报竞赛中，荣获“优秀海报奖”。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;🎉 荣获2025年度燕山大学“**鲲鹏奖学金卓越奖**”.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.04*</span> &nbsp;🎉 荣获“河北省优秀毕业生”称号。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;🎉 在燕山大学的研究生毕业典礼上，作为**毕业生代表**发表讲话.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.03*</span> &nbsp;🎉 荣获“河北省三好学生”称号。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.05*</span> &nbsp;🎉 荣获2025年度SPIE（国际光学工程学会）“**Optics and Photonics Scholarship （光学与光子学教育奖学金）**”.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.03*</span> &nbsp;🎉 论文 "Wide Range Concentration Measurement of Sulfur Dioxide Based on Adaptive Sliding Window Absorption Spectroscopy" 被《Spectroscopy and Spectral Analysis》期刊接收。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.05*</span> &nbsp;🎉 **入选《人民日报》“2024年研究生国家奖学金获奖学生代表名录”（100名获奖学生代表之一）**.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.01*</span> &nbsp;🎉 论文 "Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network" 被《Analytical Chemistry》期刊接收。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.04*</span> &nbsp;🎉 在2025年全国光学与光学工程博士生学术联赛海报竞赛中，荣获“**优秀海报奖**”.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.12*</span> &nbsp;🎉 荣获星箭科技赞助的“星箭科技星青年科研奖学金”。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.04*</span> &nbsp;🎉 荣获“**河北省优秀毕业生**”称号.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.12*</span> &nbsp;🎉 被百度飞桨授予“飞桨星河社区年度AI开发者”称号。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.03*</span> &nbsp;🎉 荣获“**河北省三好学生**”称号.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.11*</span> &nbsp;🎉 荣获“燕山大学三好学生标兵”称号。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.03*</span> &nbsp;🎉 论文 "Wide Range Concentration Measurement of Sulfur Dioxide Based on Adaptive Sliding Window Absorption Spectroscopy" 被《Spectroscopy and Spectral Analysis》期刊接收.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.11*</span> &nbsp;🎉 荣获海天集团赞助的“海天基金奖学金”。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.01*</span> &nbsp;🎉 论文 "Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network" 被《Analytical Chemistry》期刊接收.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.11*</span> &nbsp;🎉 荣获“国家奖学金”。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.12*</span> &nbsp;🎉 荣获星箭科技赞助的“**星箭科技星青年科研奖学金**”.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.09*</span> &nbsp;🎉 论文 "Optical chemical gas sensor based on spectral autocorrelation: A method for online detection of nitric oxide and ammonia in exhaled breath" 被《Sensors and Actuators B: Chemical》期刊接收。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.12*</span> &nbsp;🎉 被百度飞桨授予“**2024年度飞桨星河社区年度AI开发者**”.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.07*</span> &nbsp;🎉 论文 "Ppb-Level Ammonia Sensor for Exhaled Breath Diagnosis Based on UV-DOAS Combined with Spectral Reconstruction Fitting Neural Network" 被《ACS Sensors》期刊接收。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.11*</span> &nbsp;🎉 荣获“**燕山大学三好学生标兵**”称号.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.04*</span> &nbsp;🎉 论文 "Multiparameter gas sensor based on UV-SFR combined with wavelet transform-neural network at ppb level" 被《Optics & Laser Technology》期刊接收。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.11*</span> &nbsp;🎉 荣获海天集团赞助的“**海天基金奖学金**”.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.03*</span> &nbsp;🎉 荣获“河北省三好学生”称号。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.11*</span> &nbsp;🎉 荣获2024年“**国家奖学金**”.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.01*</span> &nbsp;🎉 论文 "Ultrasensitive Online NO Sensor Based on a Distributed Parallel Self-Regulating Neural Network and Ultraviolet Differential Optical Absorption Spectroscopy for Exhaled Breath Diagnosis" 被《ACS Sensors》期刊接收。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.09*</span> &nbsp;🎉 论文 "Optical chemical gas sensor based on spectral autocorrelation: A method for online detection of nitric oxide and ammonia in exhaled breath" 被《Sensors and Actuators B: Chemical》期刊接收.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.10*</span> &nbsp;🎉 荣获“国家奖学金”。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.07*</span> &nbsp;🎉 论文 "Ppb-Level Ammonia Sensor for Exhaled Breath Diagnosis Based on UV-DOAS Combined with Spectral Reconstruction Fitting Neural Network" 被《ACS Sensors》期刊接收.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.08*</span> &nbsp;🎉 被百度飞桨授予“飞桨开发者技术专家”称号。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.04*</span> &nbsp;🎉 论文 "Multiparameter gas sensor based on UV-SFR combined with wavelet transform-neural network at ppb level" 被《Optics & Laser Technology》期刊接收.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.07*</span> &nbsp;🎉 论文 "A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model" 被《Sensors and Actuators B: Chemical》期刊接收。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.03*</span> &nbsp;🎉 荣获“**河北省三好学生**”称号.
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2022.06*</span> &nbsp;🎉 荣获“辽宁省优秀毕业生”称号。
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2024.01*</span> &nbsp;🎉 论文 "Ultrasensitive Online NO Sensor Based on a Distributed Parallel Self-Regulating Neural Network and Ultraviolet Differential Optical Absorption Spectroscopy for Exhaled Breath Diagnosis" 被《ACS Sensors》期刊接收.
+
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.10*</span> &nbsp;🎉 荣获2023年“**国家奖学金**”.
+
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.08*</span> &nbsp;🎉 被百度飞桨授予“**飞桨开发者技术专家**”称号.
+
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.07*</span> &nbsp;🎉 论文 "A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model" 被《Sensors and Actuators B: Chemical》期刊接收.
+
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2022.06*</span> &nbsp;🎉 荣获“**辽宁省优秀毕业生**”称号.
 
 
 # 📝 Publications 
