@@ -22,8 +22,8 @@ redirect_from:
 
 - **朱瑞，男，博士在读于华东师范大学精密光谱科学与技术国家重点实验室、精密光谱科学与技术高等研究院**
 - **研究兴趣是双光梳光谱、光谱分析、光学（气体）传感器、呼出气体超痕量检测以及深度学习技术的应用**
-- **以<span style="color:red">第一作者</span>发表SCI论文7篇，其中,中科院一区<span style="color:red">Top</span>论文5篇、二区<span style="color:red">Top</span>论文1篇**
-- **申请国家发明专利4项，登记软件著作权11项**
+- **累计发表SCI论文30余篇，其中以<span style="color:red">第一作者</span>发表SCI论文8篇，包括中科院一区<span style="color:red">Top</span>论文6篇、二区<span style="color:red">Top</span>论文1篇；申请国家发明专利4项，登记软件著作权3项**
+- **荣获《人民日报》2024年研究生国家奖学金100名获奖学生代表**
 - **荣获2025 SPIE Optics and Photonics Scholarship**
 - **荣获2025年度仪器仪表学会奖学金、2025年度叶声华奖学金**
 - **荣获2023年、2024年硕士研究生国家奖学金**
@@ -31,19 +31,15 @@ redirect_from:
 - **国际光学工程学会学生会员、中国光学学会、中国仪器仪表学会、中国光学工程学会学生会员**
 </div>
 </div>
-<p style="text-align: justify;">
-  
-My name is Zhu Rui, male, and I am a doctoral student in the State Key Laboratory of Precision Spectroscopy Science and Technology and Institute for Advanced Study of Precision Spectroscopy Science and Technology, East China Normal University. My research interests are dual comb spectroscopy, optical (gas) sensor, exhaled gas ultrattrace detection, and the application of deep learning techniques. I have published 7 SCI papers as the first author, including 5 Top papers in the first district of the Chinese Academy of Sciences and 1 Top paper in the second district of the Chinese Academy of Sciences. And applied for 4 national invention patents, registered software copyright 11. And I won the national Scholarship for graduate students in 2023 and 2024. I am proficient in Python programming and familiar with TensorFlow, Pytorch, PaddlePaddle frameworks. Therefore, I was awarded "PaddlePaddle Developers Expert" by Baidu PaddlePaddle  and "New Star Creator in AI" by CSDN. At the same time, I am a student member of the International Society of Optical Engineering, a student member of the Chinese Optical Society, a student member of the Chinese Society of Instrumentation, and a student member of the Chinese Society of Optical Engineering. 
-</p>
 
 # 🔥 News
 
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.11*</span> &nbsp;🎉 I won the "The 2025 Outstanding Doctoral Dissertation Cultivation Funding Project（2025年优秀博士学位论文培育资助项目）" of the State Key Laboratory of Precision Spectroscopy Science and Technology.
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.09*</span> &nbsp;🎉 I delivered a speech as a doctoral student representative at the opening ceremony of the Advanced Institute of Precision Spectroscopy Science and Technology at ECNU.
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.07*</span> &nbsp;🎉 I won the "2025 Instrumentation Society Scholarship（2025年度仪器仪表学会奖学金）".
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;🎉 I won the "2025 Ye Shenghua Scholarship（2025年度叶声华奖学金）".
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;🎉 I won the "2025 KunPeng Scholarship（2025年度鲲鹏奖学金）".
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.05*</span> &nbsp;🎉 I won the "2025 SPIE Optics and Photonics Scholarship（2025年度国际光学工程学会光学与光子学教育奖学金）".
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.11*</span> &nbsp;🎉 荣获华东师范大学精密光谱科学与技术高等研究院“**2025年优秀博士学位论文培育资助项目**”.
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.09*</span> &nbsp;🎉 华东师范大学精密光谱科学与技术研究院的开学典礼上，作为博士生代表发表了讲话.
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.07*</span> &nbsp;🎉 荣获2025年度仪器仪表学会“**学会一等奖学金**”.
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;🎉 荣获2025年度教育部“**叶声华奖学金**”.
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;🎉 荣获2025年度燕山大学“**鲲鹏奖学金卓越奖**”.
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.05*</span> &nbsp;🎉 荣获2025年度SPIE“**Optics and Photonics Scholarship（2025年度国际光学工程学会光学与光子学教育奖学金）**”.
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.05*</span> &nbsp;🎉 I was featured in “The People's Daily（《人民日报》）” as one of the “100 Scholarship Recipients of the 2024 Graduate Student National Scholarship（2024年研究生果国家奖学金获奖学生代表名录）”.
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.04*</span> &nbsp;🎉 I won the "Excellent Poster Award（优秀海报奖）" in the Poster Competition of the 2025 National Doctoral Academic League on Optics and Optical Engineering.
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.04*</span> &nbsp;🎉 I won the "Honor Graduate of Hebei University（河北省优秀毕业生）".
@@ -64,7 +60,56 @@ My name is Zhu Rui, male, and I am a doctoral student in the State Key Laborator
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.08*</span> &nbsp;🎉 I won the "PaddlePaddle Developers Expert（飞桨开发者技术专家）" by Baidu PaddlePaddle.
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2023.07*</span> &nbsp;🎉 One paper "A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model" is accepted by Sensors and Actuators B: Chemical.
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2022.06*</span> &nbsp;🎉 I won the "Honor Graduate of Liaoning University（辽宁省优秀毕业生）".
+- 2025.11 🎉 荣获华东师范大学精密光谱科学与技术高等研究院“2025年优秀博士学位论文培育资助项目”。
+- 2025.09 🎉 在华东师范大学精密光谱科学与技术研究院的开学典礼上，作为博士生代表发表讲话。
 
+- 2025.07 🎉 荣获2025年度仪器仪表学会“学会一等奖学金”。
+
+- 2025.06 🎉 荣获2025年度教育部“叶声华奖学金”。
+
+- 2025.06 🎉 荣获2025年度燕山大学“鲲鹏奖学金卓越奖”。
+
+- 2025.05 🎉 荣获2025年度SPIE（国际光学工程学会）“光学与光子学教育奖学金”。
+
+- 2025.05 🎉 入选《人民日报》“2024年研究生国家奖学金获奖学生代表名录”（100名获奖学生代表之一）。
+
+- 2025.04 🎉 在2025年全国光学与光学工程博士生学术联赛海报竞赛中，荣获“优秀海报奖”。
+
+- 2025.04 🎉 荣获“河北省优秀毕业生”称号。
+
+- 2025.03 🎉 荣获“河北省三好学生”称号。
+
+- 2025.03 🎉 论文 "Wide Range Concentration Measurement of Sulfur Dioxide Based on Adaptive Sliding Window Absorption Spectroscopy" 被 Spectroscopy and Spectral Analysis 期刊接收。
+
+- 2025.01 🎉 论文 "Detection of Breath Nitric Oxide at Ppb Level Based on Multiperiodic Spectral Reconstruction Neural Network" 被 Analytical Chemistry 期刊接收。
+
+- 2024.12 🎉 荣获星箭科技赞助的“星箭科技星青年科研奖学金”。
+
+- 2024.12 🎉 被百度飞桨授予“飞桨星河社区年度AI开发者”称号。
+
+- 2024.11 🎉 荣获“燕山大学三好学生标兵”称号。
+
+- 2024.11 🎉 荣获海天集团赞助的“海天基金奖学金”。
+
+- 2024.11 🎉 荣获“国家奖学金”。
+
+- 2024.09 🎉 论文 "Optical chemical gas sensor based on spectral autocorrelation: A method for online detection of nitric oxide and ammonia in exhaled breath" 被 Sensors and Actuators B: Chemical 期刊接收。
+
+- 2024.07 🎉 论文 "Ppb-Level Ammonia Sensor for Exhaled Breath Diagnosis Based on UV-DOAS Combined with Spectral Reconstruction Fitting Neural Network" 被 ACS Sensors 期刊接收。
+
+- 2024.04 🎉 论文 "Multiparameter gas sensor based on UV-SFR combined with wavelet transform-neural network at ppb level" 被 Optics & Laser Technology 期刊接收。
+
+- 2024.03 🎉 荣获“河北省三好学生”称号。
+
+- 2024.01 🎉 论文 "Ultrasensitive Online NO Sensor Based on a Distributed Parallel Self-Regulating Neural Network and Ultraviolet Differential Optical Absorption Spectroscopy for Exhaled Breath Diagnosis" 被 ACS Sensors 期刊接收。
+
+- 2023.10 🎉 荣获“国家奖学金”。
+
+- 2023.08 🎉 被百度飞桨授予“飞桨开发者技术专家”称号。
+
+- 2023.07 🎉 论文 "A ppb-level online detection system for gas concentrations in CS2/SO2 mixtures based on UV-DOAS combined with VMD-CNN-TL model" 被 Sensors and Actuators B: Chemical 期刊接收。
+
+- 2022.06 🎉 荣获“辽宁省优秀毕业生”称号。
 
 # 📝 Publications 
 ## 🎯 Research Article
