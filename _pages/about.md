@@ -103,7 +103,7 @@ A sub-ppb SO2 sensor system for atmospheric monitoring based on a dual-path spec
 
 <span style="color:MediumBlue">**Rui Zhu**</span>, Ming Yan\*, Mu Li, Jie Gao, Yongqi Wu, Yungang Zhang\*, Heping Zeng*
 
-[**Paper PDF**]([https://pan.quark.cn/s/a0fff1e837f3](https://www.sciencedirect.com/science/article/abs/pii/S0925400526004910))
+[**Paper PDF**](https://www.sciencedirect.com/science/article/abs/pii/S0925400526004910)
 - This work proposes an online sub-ppb optical gas sensor system for atmospheric SO2 monitoring.
 - Spectral reconstruction provides a critical approach for isolating ultra-weak signals.
 </div>
