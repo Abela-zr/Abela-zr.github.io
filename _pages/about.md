@@ -235,7 +235,7 @@ A sub-ppb SO2 sensor system for atmospheric monitoring based on a dual-path spec
 ---------
 
 # 🎖 Honors and Awards
-- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.01*</span> &nbsp;2025年度飞桨星河年度开发者
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.01*</span> &nbsp;2025年度飞桨星河年度开发者
 - <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.07*</span> &nbsp;仪器仪表学会一等奖学金
 - <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;叶声华奖学金
 - <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;鲲鹏奖学金卓越奖
