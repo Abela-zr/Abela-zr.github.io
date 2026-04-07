@@ -99,7 +99,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors and Actuators B: Chemical 2026</div><img src='images/Papers/paper6.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A sub-ppb SO2 sensor system for atmospheric monitoring based on a dual-path spectral reconstruction neural network combined with UV-DOAS](https://www.sciencedirect.com/science/article/abs/pii/S0925400526004910)
+[A sub-ppb SO2 sensor system for atmospheric monitoring based on a dual-path spectral reconstruction neural network combined with UV-DOAS](https://www.sciencedirect.com/science/article/abs/pii/S0925400526004910)
 
 <span style="color:MediumBlue">**Rui Zhu**</span>, Ming Yan\*, Mu Li, Jie Gao, Yongqi Wu, Yungang Zhang\*, Heping Zeng*
 
