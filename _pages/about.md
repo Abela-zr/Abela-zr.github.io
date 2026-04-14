@@ -34,6 +34,8 @@ redirect_from:
 
 # 🔥 News
 
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.04*</span> &nbsp;🎉 荣获“**华东师范大学2025-2026学年学风建设优秀个人**”.
+
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.04*</span> &nbsp;🎉 论文 "A sub-ppb SO2 sensor system for atmospheric monitoring based on a dual-path spectral reconstruction neural network combined with UV-DOAS" 被《Sensors and Actuators B: Chemical》期刊接收.
 
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.01*</span> &nbsp;🎉 被百度飞桨授予“**2025年度飞桨星河年度开发者**”.
@@ -235,6 +237,7 @@ redirect_from:
 ---------
 
 # 🎖 Honors and Awards
+- <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.01*</span> &nbsp;华东师范大学2025-2026学年学风建设优秀个人
 - <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.01*</span> &nbsp;2025年度飞桨星河年度开发者
 - <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.07*</span> &nbsp;仪器仪表学会一等奖学金
 - <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2025.06*</span> &nbsp;叶声华奖学金
