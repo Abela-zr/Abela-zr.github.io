@@ -21,8 +21,8 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 - **朱瑞，男，博士在读于华东师范大学精密光谱科学与技术国家重点实验室、精密光谱科学与技术高等研究院**
-- **博士导师：曾和平教授[（学术主页）](https://iphoton.ecnu.edu.cn/zhp/list.htm)、闫明研究员[（学术主页）](https://faculty.ecnu.edu.cn/_s29/ym2/main.psp)**
-- **硕士导师：张云刚教师[（学术主页）](https://www.x-mol.com/groups/zhangyg)**
+- **博士导师：曾和平 教授[（学术主页）](https://iphoton.ecnu.edu.cn/zhp/list.htm)、闫明 研究员[（学术主页）](https://faculty.ecnu.edu.cn/_s29/ym2/main.psp)**
+- **硕士导师：张云刚 教授[（学术主页）](https://www.x-mol.com/groups/zhangyg)**
 - **研究兴趣是双光梳光谱、光谱分析、光学（气体）传感器、呼出气体超痕量检测以及深度学习技术的应用**
 - **累计发表SCI论文30余篇，其中以<span style="color:red">第一作者</span>发表SCI论文8篇，包括中科院一区<span style="color:red">Top</span>论文6篇、二区<span style="color:red">Top</span>论文1篇；申请国家发明专利6项，登记软件著作权3项**
 - **荣获《人民日报》2024年研究生国家奖学金100名获奖学生代表**
@@ -35,6 +35,8 @@ redirect_from:
 
 # 🔥 News
 
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.09*</span> &nbsp;🎉 专利“一种基于标准光谱正交映射的双光梳测量方法及其测量系统”被受理.
+- 
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.06*</span> &nbsp;🎉 荣获“**华东师范大学优秀共产党员**”.
 
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.04*</span> &nbsp;🎉 荣获“**华东师范大学2025-2026学年学风建设优秀个人**”.
