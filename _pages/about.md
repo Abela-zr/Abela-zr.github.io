@@ -34,13 +34,13 @@ redirect_from:
 </div>
 
 
-# 🔥 个人简介
+# 🔥 研究基础
 
 自博士入学以来，师从华东师范大学曾和平教授以及闫明研究员，在超灵敏气体检测、分子指纹谱分析及光梳精密测量方面开展了系统研究，积累了丰厚的研究基础和应用经验，并在燕山大学张云刚教授的帮助指导下加深了对超痕量气体检测技术的研究积累。目前**以第一作者身份发表SCI论文8篇（中科院一区Top论文6篇），申请国家发明专利6项，授权软件著作权3项**，谷歌学术总被引382次，h指数13；担任Sensors and Actuators B: Chemical等国际著名期刊审稿人，主持华东师范大学精密光谱科学与技术高研院优秀博士学位论文培育资助项目1项，并参与了多项超灵敏气体传感与分子指纹谱精密测量的基础研究项目。曾获SPIE Optics and Photonics Scholarship（2025，全球74人，国内9人）、叶声华奖学金（2025，全国11人）、中国仪器仪表学会一等奖学金（2025，全国12人）、研究生国家奖学金（2023、2024）、全国光学与光学工程博士生学术联赛优秀海报奖（2025）等荣誉。
 
 此外，**导师曾和平教授**一直致力推进学科建设与团队培养，在精密光谱和量子探测研究领域培养和造就了有重要国际影响的优秀研究团队，近年来主持了国家重大科学仪器设备开发专项、国家重点研发计划、国家自然科学基金委创新群体项目、国家自然科学基金委仪器项目等，在精密光谱与量子探测方面做出了系统创新，发展出精密光谱测量、光场时频精密测控、单光子探测若干新方法。同时，**联合导师闫明研究员**长期从事精密光谱测量与成像研究，在高分辨分子指纹光谱与红外光频梳光源等方面取得若干重要进展；2016年，经诺贝尔物理学奖得主Hänsch教授推荐，被德国Max Planck Society授予Theodor Hänsch Fellowship，成为首位获此殊荣的中国学者；近年来主持国自然青B（优青）、2030重大专项课题、重点研发课题等国家级科研项目，并在Nature Photonics，Nature Communications，Light: Science & Applications等国际刊物发表学术论文100余篇。
 
-# 🔥 News
+# 🔥 新闻
 
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.09*</span> &nbsp;🎉 专利“一种基于标准光谱正交映射的双光梳测量方法及其测量系统”被受理.
 
@@ -107,8 +107,8 @@ redirect_from:
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2022.06*</span> &nbsp;🎉 荣获“**辽宁省优秀毕业生**”称号.
 
 
-# 📝 Publications 
-## 🎯 Research Article
+# 📝 科研成果 
+## 🎯 发表论文情况
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors and Actuators B: Chemical 2026</div><img src='images/Papers/paper6.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -188,7 +188,7 @@ redirect_from:
 </div>
 </div>
 
-### First Author
+### 第一作者
 
 - <span style="color:Black">**8、**</span>  <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2025</span> [A sub-ppb SO2 sensor system for atmospheric monitoring based on a dual-path spectral reconstruction neural network combined with UV-DOAS](https://www.sciencedirect.com/science/article/pii/S0925400526004910), <span style="color:MediumBlue">**Rui Zhu**</span>, Ming Yan\*, Mu Li, Jie Gao, Yongqi Wu, Yungang Zhang\*, Heping Zeng*, Sensors and Actuators B: Chemical, 2026, 460, 139913. <span style="background-color: DarkRed; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Sensors and Actuators B: Chemical</span>
 - <span style="color:Black">**7、**</span>  <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2025</span> [Wide Range Concentration Measurement of Sulfur Dioxide Based on Adaptive Sliding Window Absorption Spectroscopy](https://www.gpxygpfx.com/article/2025/1000-0593-45-8-2134.html), <span style="color:MediumBlue">**Rui Zhu**</span>, Yaodong Da\*, Yongqiang Chang, Jie Gao, Tengda Shi, Yungang Zhang*, Spectroscopy and Spectral Analysis, 2025, 45, 8, 2134-2139. <span style="background-color: DarkRed; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Spectroscopy and Spectral Analysis</span>
@@ -201,7 +201,7 @@ redirect_from:
 
 -------
 
-### Non-first Author
+### 合作作者
 
 - <span style="color:Black">**26、**</span>  <span style="background-color: #00008B; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2026</span> [Transient interference-based spectroscopy for molecular-bond sensitive probe of lithium ion batttery](), Mengyun Hu, Enlai Wan, Qiao Yu, Shupeng Xu, Shiwen Li, <span style="color:MediumBlue">**Rui Zhu**</span>, Jiamin Guo, Xihao Chen, Heping Zeng*, Energy & Environmental Science, 2026, xx(xx), xxxx. <span style="background-color: DarkRed; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">Energy & Environmental Science</span>
 
@@ -233,7 +233,7 @@ redirect_from:
 
 --------
 
-## 📚 Patent
+## 📚 申请专利情况
 - <span style="background-color: #CD661D; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2024</span> [一种基于标准光谱正交映射的双光梳测量方法及其测量系统](), 曾和平, <span style="color:MediumBlue">**朱瑞**</span>, 张惟宣, 马湘泽, 万卓仁, 温兆阳, 闫明. 申请号：2026115309379.
 - <span style="background-color: #CD661D; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2024</span> [一种基于吸收光谱自相关的混合气体浓度检测装置和方法](), 张云刚, <span style="color:MediumBlue">**朱瑞**</span>, 高杰, 李沐, 武泳淇. . 申请号：2024102951749, 公开号：CN118130412A.
 - <span style="background-color: #CD661D; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2024</span> [一种氧气和臭氧的吸收截面测量装置及方法](), 张云刚, 赵烁, <span style="color:MediumBlue">**朱瑞**</span>, 高杰, 李沐. 申请号：2024107350847, 公开号：CN118758885A.
@@ -242,14 +242,14 @@ redirect_from:
 
 ---------
 
-## 📖 Software Copyright
+## 📖 授权软件著作权情况
 - <span style="background-color: #228B22; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2024</span> [Carbon monoxide gas spectral processing and analysis software](), <span style="color:MediumBlue">**朱瑞**</span>. 2024SR1036904.
 - <span style="background-color: #228B22; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2024</span> [Acetone gas spectral processing and analysis software](), <span style="color:MediumBlue">**朱瑞**</span>. 2024SR0981596.
 - <span style="background-color: #228B22; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2024</span> [Nitrogen dioxide gas spectral processing and analysis software](), <span style="color:MediumBlue">**朱瑞**</span>. 2024SR0746974.
 
 ---------
 
-# 🎖 Honors and Awards
+# 🎖 荣誉和奖励情况
 - <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.06*</span> &nbsp;华东师范大学优秀共产党员
 - <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.04*</span> &nbsp;华东师范大学2025-2026学年学风建设优秀个人
 - <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.01*</span> &nbsp;2025年度飞桨星河年度开发者
@@ -277,7 +277,7 @@ redirect_from:
 - <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2021.09*</span> &nbsp;沈阳工业大学优秀学生干部
 - <span style="background-color: #FFA500; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2021.09*</span> &nbsp;人工智能领域新星创作者
 
-# 📖 Educations
+# 📖 教育经历
 - *2025.09 - 2029.06*, 博士, 光学, 华东师范大学, 导师：曾和平教授、闫明研究员.
 - *2022.09 - 2025.06*, 硕士, 仪器仪表工程, 燕山大学, 导师：张云刚教授.
 - *2018.09 - 2022.06*, 本科, 智能科学与技术, 沈阳工业大学, 导师：王艳红教授、张俊副教授.
