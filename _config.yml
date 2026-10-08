@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Rui Zhu（朱瑞）"
+  name             : "朱瑞"
   avatar           : "images/600k.png"
-  bio              : "PhD Candidate"
-  location         : "Shanghai, China"
-  employer         : "East China Normal University"
+  bio              : "博士在读"
+  location         : "上海, 中国"
+  employer         : "华东师范大学"
   pubmed           : 
   googlescholar    : 
   email            : "zhurui@stu.ecnu.edu.cn"
