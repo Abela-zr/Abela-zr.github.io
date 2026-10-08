@@ -23,7 +23,7 @@ redirect_from:
 - **朱瑞，男，博士在读于华东师范大学精密光谱科学与技术国家重点实验室、精密光谱科学与技术高等研究院**
 - **博士导师：曾和平 教授[（学术主页）](https://iphoton.ecnu.edu.cn/zhp/list.htm)、闫明 研究员[（学术主页）](https://faculty.ecnu.edu.cn/_s29/ym2/main.psp)**
 - **硕士导师：张云刚 教授[（学术主页）](https://www.x-mol.com/groups/zhangyg)**
-- **研究兴趣是双光梳光谱、光谱分析、光学（气体）传感器、呼出气体超痕量检测以及深度学习技术的应用**
+- **研究兴趣是光学频率梳、量子光梳、光梳成像**
 - **累计发表SCI论文30余篇，其中以<span style="color:red">第一作者</span>发表SCI论文8篇，包括中科院一区<span style="color:red">Top</span>论文6篇、二区<span style="color:red">Top</span>论文1篇；申请国家发明专利6项，登记软件著作权3项**
 - **荣获《人民日报》2024年研究生国家奖学金100名获奖学生代表**
 - **荣获2025 SPIE Optics and Photonics Scholarship**
