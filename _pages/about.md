@@ -20,7 +20,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/worker1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **朱瑞，男，博士在读于华东师范大学精密光谱科学与技术国家重点实验室、精密光谱科学与技术高等研究院**
+- **朱瑞，男，博士在读于华东师范大学精密光谱科学与技术高等研究院**
 - **博士导师：曾和平 教授[（学术主页）](https://iphoton.ecnu.edu.cn/zhp/list.htm)、闫明 研究员[（学术主页）](https://faculty.ecnu.edu.cn/_s29/ym2/main.psp)**
 - **硕士导师：张云刚 教授[（学术主页）](https://www.x-mol.com/groups/zhangyg)**
 - **研究兴趣是光学频率梳、量子光梳、光梳成像**
