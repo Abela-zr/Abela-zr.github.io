@@ -225,10 +225,11 @@ redirect_from:
 --------
 
 ## 📚 Patent
-- <span style="background-color: #CD661D; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2024</span> [一种基于吸收光谱自相关的混合气体浓度检测装置和方法](), 张云刚, <span style="color:MediumBlue">**朱瑞**</span>, et al. CN118130412A.
-- <span style="background-color: #CD661D; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2024</span> [一种氧气和臭氧的吸收截面测量装置及方法](), 张云刚, 赵烁, <span style="color:MediumBlue">**朱瑞**</span>, et al. CN118758885A.
-- <span style="background-color: #CD661D; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2024</span> [基于多峰相关性分析的高温铝轧制油浓度检测装置及方法](), 张云刚, 秦婉怡, 高杰, <span style="color:MediumBlue">**朱瑞**</span>, et al. CN118624556A.
-- <span style="background-color: #CD661D; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2024</span> [基于非视域镜像映射的高温锻件径向形貌重构系统及方法](), 张云刚, 周齐文, 刘斌, 李沐, <span style="color:MediumBlue">**朱瑞**</span>, et al. CN118463845A.
+- <span style="background-color: #CD661D; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2024</span> [一种基于标准光谱正交映射的双光梳测量方法及其测量系统](), 曾和平, <span style="color:MediumBlue">**朱瑞**</span>, 张惟宣, 马湘泽, 万卓仁, 温兆阳, 闫明. 申请号：2026115309379.
+- <span style="background-color: #CD661D; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2024</span> [一种基于吸收光谱自相关的混合气体浓度检测装置和方法](), 张云刚, <span style="color:MediumBlue">**朱瑞**</span>, 高杰, 李沐, 武泳淇. . 申请号：2024102951749, 公开号：CN118130412A.
+- <span style="background-color: #CD661D; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2024</span> [一种氧气和臭氧的吸收截面测量装置及方法](), 张云刚, 赵烁, <span style="color:MediumBlue">**朱瑞**</span>, 高杰, 李沐. 申请号：2024107350847, 公开号：CN118758885A.
+- <span style="background-color: #CD661D; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2024</span> [基于多峰相关性分析的高温铝轧制油浓度检测装置及方法](), 张云刚, 秦婉怡, 高杰, <span style="color:MediumBlue">**朱瑞**</span>, 李沐. 申请号：2024107031254, 公开号：CN118624556A.
+- <span style="background-color: #CD661D; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2024</span> [基于非视域镜像映射的高温锻件径向形貌重构系统及方法](), 张云刚, 周齐文, 刘斌, 李沐, <span style="color:MediumBlue">**朱瑞**</span>. 申请号：2024105353520, 公开号：CN118463845A.
 
 ---------
 
