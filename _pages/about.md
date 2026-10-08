@@ -36,7 +36,7 @@ redirect_from:
 
 # 🔥 研究基础
 
-<div style="text-align: justify; text-indent: 2em; margin-bottom: 1em;">
+<div style="text-align: justify; text-indent: 2em; margin-bottom: 0.5em;">
 自博士入学以来，师从华东师范大学<b>曾和平教授以及闫明研究员</b>，在超灵敏气体检测、分子指纹谱分析及光梳精密测量方面开展了系统研究，积累了丰厚的研究基础和应用经验，并在燕山大学张云刚教授的帮助指导下加深了对超痕量气体检测技术的研究积累。目前<b>以第一作者身份发表SCI论文8篇（中科院一区Top论文6篇），申请国家发明专利6项，授权软件著作权3项</b>，谷歌学术总被引382次，h指数13；担任Sensors and Actuators B: Chemical等国际著名期刊审稿人，主持华东师范大学精密光谱科学与技术高研院优秀博士学位论文培育资助项目1项，并参与了多项超灵敏气体传感与分子指纹谱精密测量的基础研究项目。曾获SPIE Optics and Photonics Scholarship（2025，<b>全球74人，国内9人</b>）、叶声华奖学金（2025，<b>全国11人</b>）、中国仪器仪表学会一等奖学金（2025，<b>全国12人</b>）、研究生国家奖学金（2023、2024）、全国光学与光学工程博士生学术联赛优秀海报奖（2025）等荣誉。
 </div>
 <div style="text-align: justify; text-indent: 2em;">
