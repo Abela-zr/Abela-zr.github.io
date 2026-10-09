@@ -27,7 +27,7 @@ redirect_from:
 - **累计发表SCI论文30余篇，其中以<span style="color:red">第一作者</span>发表SCI论文8篇，包括中科院一区<span style="color:red">Top</span>论文6篇、二区<span style="color:red">Top</span>论文1篇；申请国家发明专利6项，登记软件著作权3项**
 - **荣获《人民日报》2024年研究生国家奖学金100名获奖学生代表名录**
 - **荣获2025 SPIE Optics and Photonics Scholarship**
-- **荣获2025年度仪器仪表学会奖学金、2025年度叶声华奖学金**
+- **荣获2025年度中国仪器仪表学会奖学金、叶声华奖学金**
 - **被百度飞桨授予“飞桨开发者技术专家”**
 - **SPIE 学生会员、中国光学学会、中国仪器仪表学会、中国光学工程学会学生会员**
 </div>
