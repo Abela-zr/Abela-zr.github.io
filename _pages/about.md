@@ -25,7 +25,7 @@ redirect_from:
 - **硕士导师：张云刚 教授[（学术主页）](https://www.x-mol.com/groups/zhangyg)**
 - **研究兴趣是光学频率梳、量子光梳、光梳成像**
 - **累计发表SCI论文30余篇，其中以<span style="color:red">第一作者</span>发表SCI论文8篇，包括中科院一区<span style="color:red">Top</span>论文6篇、二区<span style="color:red">Top</span>论文1篇；申请国家发明专利6项，登记软件著作权3项**
-- **荣获《人民日报》2024年研究生国家奖学金100名获奖学生代表**
+- **荣获《人民日报》2024年研究生国家奖学金100名获奖学生代表名录**
 - **荣获2025 SPIE Optics and Photonics Scholarship**
 - **荣获2025年度仪器仪表学会奖学金、2025年度叶声华奖学金**
 - **被百度飞桨授予“飞桨开发者技术专家”**
