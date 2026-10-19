@@ -45,6 +45,8 @@ redirect_from:
 
 # 🔥 新闻
 
+- <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.10*</span> &nbsp;🎉 专利“光谱测量系统和方法”被受理.
+
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.09*</span> &nbsp;🎉 专利“一种基于标准光谱正交映射的双光梳测量方法及其测量系统”被受理.
 
 - <span style="background-color: #FF3030; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">*2026.06*</span> &nbsp;🎉 荣获“**华东师范大学优秀共产党员**”.
@@ -239,6 +241,7 @@ redirect_from:
 --------
 
 ## 📚 申请专利情况
+- <span style="background-color: #CD661D; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2026</span> [光谱测量系统和方法](), 余磊, 景军, 刘志国, 黄文丁, 黄志城, 温兆阳, 闫明, 蒋聪, <span style="color:MediumBlue">**朱瑞**</span>. 申请号：2026115934384.
 - <span style="background-color: #CD661D; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2026</span> [一种基于标准光谱正交映射的双光梳测量方法及其测量系统](), 曾和平, <span style="color:MediumBlue">**朱瑞**</span>, 张惟宣, 马湘泽, 万卓仁, 温兆阳, 闫明. 申请号：2026115309379.
 - <span style="background-color: #CD661D; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2024</span> [一种基于吸收光谱自相关的混合气体浓度检测装置和方法](), 张云刚, <span style="color:MediumBlue">**朱瑞**</span>, 高杰, 李沐, 武泳淇. . 申请号：2024102951749, 公开号：CN118130412A.
 - <span style="background-color: #CD661D; color: white; padding: 2px 5px; border-radius: 3px;font-size: 0.9em;">2024</span> [一种氧气和臭氧的吸收截面测量装置及方法](), 张云刚, 赵烁, <span style="color:MediumBlue">**朱瑞**</span>, 高杰, 李沐. 申请号：2024107350847, 公开号：CN118758885A.
